@@ -13,6 +13,12 @@ This is a strategy solver for a fantasy-like NFL game I play with my friends and
 1. Clone locally
 2. `yarn install`
 
+### Usage
+1. Edit `lmsConfig.js` to define the scenario.
+2. Edit `espnSurvivor.js` to load your scenario, by the key.
+3. `node espnGetStats.js` to refresh stats from ESPN.
+4. `node espnSurvivor.js` to generate the top scenario solutions.
+
 ## Discussion and strategy
 There are 32 teams in the NFL and 18 weeks in the regular season for 2021. The number of possible permutations is quite large. `P(32, 18) = 32!/14!`.
 
