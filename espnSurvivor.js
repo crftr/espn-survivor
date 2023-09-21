@@ -1,20 +1,20 @@
-const { PriorityQueue } = require("./dataStructures");
+const { PriorityQueue } = require("./lib/dataStructures");
 const lmsConfig = require("./lmsConfig");
-const espnCsvLoader = require("./espnCsvLoader");
+const espnCsvLoader = require("./lib/espn/espnCsvLoader");
 const {
   removeCompletedGames,
   removeThursdayGames,
   filterByPercentageDifference,
   filterOutPastPicks,
   filterByWeekRange,
-} = require("./espnFilterFunctions");
+} = require("./lib/espn/espnFilterFunctions");
 const {
   generateAllCombinations,
   scoreChoices_timidPuppy,
   sumPercentageDifference,
   averagePercentageDifference,
-} = require("./espnGenAndScoring");
-const { writeTopChoicesToFile } = require("./espnWriteTopChoices");
+} = require("./lib/espn/espnGenAndScoring");
+const { writeTopChoicesToFile } = require("./lib/espn/espnWriteTopChoices");
 
 /* CONFIG */
 // const userConfig = lmsConfig.michael;
