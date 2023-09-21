@@ -19,8 +19,8 @@ const { writeTopChoicesToFile } = require("./espnWriteTopChoices");
 /* CONFIG */
 // const userConfig = lmsConfig.michael;
 // const userConfig = lmsConfig.miguel;
-// const userConfig = lmsConfig.mikael;
-const userConfig = lmsConfig.mike;
+const userConfig = lmsConfig.mikael;
+// const userConfig = lmsConfig.mike;
 
 // const userConfig = lmsConfig.genie;
 // const userConfig = lmsConfig.nana;
