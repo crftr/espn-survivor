@@ -20,10 +20,12 @@ const { writeTopChoicesToFile } = require("./lib/espn/espnWriteTopChoices");
 // const userConfig = lmsConfig.michael;
 // const userConfig = lmsConfig.miguel;
 // const userConfig = lmsConfig.mikael;
-const userConfig = lmsConfig.mike;
+// const userConfig = lmsConfig.mike;
 
 // const userConfig = lmsConfig.genie;
 // const userConfig = lmsConfig.nana;
+
+const userConfig = lmsConfig.locoChon;
 
 const FILE_PREFIX = userConfig.FILE_PREFIX;
 const PAST_PICKS = userConfig.PAST_PICKS;

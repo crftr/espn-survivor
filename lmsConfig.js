@@ -42,5 +42,12 @@ module.exports = {
     STARTING_WEEK: 1,
     ENDING_WEEK: 18,
     PERCENTAGE_DIFFERENCE_THRESHOLD: 28,
-  }
+  },
+  locoChon: {
+    FILE_PREFIX: "locoChon",
+    PAST_PICKS: ["Washington Commanders", "Denver Broncos"],
+    STARTING_WEEK: 1,
+    ENDING_WEEK: 18,
+    PERCENTAGE_DIFFERENCE_THRESHOLD: 29,
+  },
 };
