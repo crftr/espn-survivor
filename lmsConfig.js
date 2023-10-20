@@ -87,7 +87,7 @@ module.exports = {
     ],
     STARTING_WEEK: 7,
     ENDING_WEEK: 14,
-    PERCENTAGE_DIFFERENCE_THRESHOLD: 10,
+    PERCENTAGE_DIFFERENCE_THRESHOLD: 25,
   },
 
   two_miguel: {
@@ -96,7 +96,7 @@ module.exports = {
     ],
     STARTING_WEEK: 7,
     ENDING_WEEK: 15,
-    PERCENTAGE_DIFFERENCE_THRESHOLD: 10,
+    PERCENTAGE_DIFFERENCE_THRESHOLD: 25,
   },
 
   two_mikael: {
@@ -105,7 +105,7 @@ module.exports = {
     ],
     STARTING_WEEK: 7,
     ENDING_WEEK: 16,
-    PERCENTAGE_DIFFERENCE_THRESHOLD: 10,
+    PERCENTAGE_DIFFERENCE_THRESHOLD: 25,
   },
 
   two_mike: {
@@ -114,6 +114,6 @@ module.exports = {
     ],
     STARTING_WEEK: 7,
     ENDING_WEEK: 18,
-    PERCENTAGE_DIFFERENCE_THRESHOLD: 10,
+    PERCENTAGE_DIFFERENCE_THRESHOLD: 25,
   },
 };

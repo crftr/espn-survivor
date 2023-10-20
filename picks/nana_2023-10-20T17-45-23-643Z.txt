@@ -1,0 +1,450 @@
+
+# 1
+Min:  39.300
+Avg:  52.700
+Sum: 632.400
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Buffalo Bills            |  1| 67.8%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Kansas City Chiefs       |  4| 55.2%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|Los Angeles Chargers     |  9| 49.0%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Philadelphia Eagles      |  7| 56.1%|
+| 17|Jacksonville Jaguars     | 10| 52.9%|
+| 18|Dallas Cowboys           |  5| 43.6%|
+-----------------------------------------
+
+# 2
+Min:  39.000
+Avg:  52.450
+Sum: 629.400
+|  7|Buffalo Bills            |  1| 64.9%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Kansas City Chiefs       |  4| 55.2%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|Los Angeles Chargers     |  9| 49.0%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Philadelphia Eagles      |  7| 56.1%|
+| 17|Jacksonville Jaguars     | 10| 52.9%|
+| 18|Seattle Seahawks         | 12| 39.0%|
+-----------------------------------------
+
+# 3
+Min:  38.300
+Avg:  50.700
+Sum: 608.400
+|  7|Buffalo Bills            |  1| 64.9%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Seattle Seahawks         | 12| 38.3%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Kansas City Chiefs       |  4| 55.2%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|Los Angeles Chargers     |  9| 49.0%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Philadelphia Eagles      |  7| 56.1%|
+| 17|Jacksonville Jaguars     | 10| 52.9%|
+| 18|Dallas Cowboys           |  5| 43.6%|
+-----------------------------------------
+
+# 4
+Min:  37.500
+Avg:  51.742
+Sum: 620.900
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Buffalo Bills            |  1| 67.8%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Kansas City Chiefs       |  4| 55.2%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|New Orleans Saints       | 16| 37.5%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Philadelphia Eagles      |  7| 56.1%|
+| 17|Jacksonville Jaguars     | 10| 52.9%|
+| 18|Dallas Cowboys           |  5| 43.6%|
+-----------------------------------------
+
+# 5
+Min:  37.500
+Avg:  51.492
+Sum: 617.900
+|  7|Buffalo Bills            |  1| 64.9%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Kansas City Chiefs       |  4| 55.2%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|New Orleans Saints       | 16| 37.5%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Philadelphia Eagles      |  7| 56.1%|
+| 17|Jacksonville Jaguars     | 10| 52.9%|
+| 18|Seattle Seahawks         | 12| 39.0%|
+-----------------------------------------
+
+# 6
+Min:  37.500
+Avg:  50.958
+Sum: 611.500
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Buffalo Bills            |  1| 67.8%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Kansas City Chiefs       |  4| 55.2%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|New Orleans Saints       | 16| 37.5%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Philadelphia Eagles      |  7| 56.1%|
+| 17|Jacksonville Jaguars     | 10| 52.9%|
+| 18|Dallas Cowboys           |  5| 43.6%|
+-----------------------------------------
+
+# 7
+Min:  37.500
+Avg:  50.733
+Sum: 608.800
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Buffalo Bills            |  1| 67.8%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Kansas City Chiefs       |  4| 55.2%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|New Orleans Saints       | 16| 37.5%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Philadelphia Eagles      |  7| 56.1%|
+| 17|Los Angeles Chargers     |  9| 40.8%|
+| 18|Dallas Cowboys           |  5| 43.6%|
+-----------------------------------------
+
+# 8
+Min:  37.500
+Avg:  50.708
+Sum: 608.500
+|  7|Buffalo Bills            |  1| 64.9%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Kansas City Chiefs       |  4| 55.2%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|New Orleans Saints       | 16| 37.5%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Philadelphia Eagles      |  7| 56.1%|
+| 17|Jacksonville Jaguars     | 10| 52.9%|
+| 18|Seattle Seahawks         | 12| 39.0%|
+-----------------------------------------
+
+# 9
+Min:  37.500
+Avg:  50.483
+Sum: 605.800
+|  7|Buffalo Bills            |  1| 64.9%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Kansas City Chiefs       |  4| 55.2%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|New Orleans Saints       | 16| 37.5%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Philadelphia Eagles      |  7| 56.1%|
+| 17|Los Angeles Chargers     |  9| 40.8%|
+| 18|Seattle Seahawks         | 12| 39.0%|
+-----------------------------------------
+
+# 10
+Min:  37.500
+Avg:  49.742
+Sum: 596.900
+|  7|Buffalo Bills            |  1| 64.9%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Seattle Seahawks         | 12| 38.3%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Kansas City Chiefs       |  4| 55.2%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|New Orleans Saints       | 16| 37.5%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Philadelphia Eagles      |  7| 56.1%|
+| 17|Jacksonville Jaguars     | 10| 52.9%|
+| 18|Dallas Cowboys           |  5| 43.6%|
+-----------------------------------------
+
+# 11
+Min:  37.500
+Avg:  48.958
+Sum: 587.500
+|  7|Buffalo Bills            |  1| 64.9%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Seattle Seahawks         | 12| 38.3%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Kansas City Chiefs       |  4| 55.2%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|New Orleans Saints       | 16| 37.5%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Philadelphia Eagles      |  7| 56.1%|
+| 17|Jacksonville Jaguars     | 10| 52.9%|
+| 18|Dallas Cowboys           |  5| 43.6%|
+-----------------------------------------
+
+# 12
+Min:  37.500
+Avg:  48.733
+Sum: 584.800
+|  7|Buffalo Bills            |  1| 64.9%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Seattle Seahawks         | 12| 38.3%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Kansas City Chiefs       |  4| 55.2%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|New Orleans Saints       | 16| 37.5%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Philadelphia Eagles      |  7| 56.1%|
+| 17|Los Angeles Chargers     |  9| 40.8%|
+| 18|Dallas Cowboys           |  5| 43.6%|
+-----------------------------------------
+
+# 13
+Min:  36.100
+Avg:  50.842
+Sum: 610.100
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Buffalo Bills            |  1| 67.8%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Kansas City Chiefs       |  4| 55.2%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|Baltimore Ravens         |  6| 36.1%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Philadelphia Eagles      |  7| 56.1%|
+| 17|Jacksonville Jaguars     | 10| 52.9%|
+| 18|Dallas Cowboys           |  5| 43.6%|
+-----------------------------------------
+
+# 14
+Min:  36.100
+Avg:  50.592
+Sum: 607.100
+|  7|Buffalo Bills            |  1| 64.9%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Kansas City Chiefs       |  4| 55.2%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|Baltimore Ravens         |  6| 36.1%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Philadelphia Eagles      |  7| 56.1%|
+| 17|Jacksonville Jaguars     | 10| 52.9%|
+| 18|Seattle Seahawks         | 12| 39.0%|
+-----------------------------------------
+
+# 15
+Min:  36.100
+Avg:  48.842
+Sum: 586.100
+|  7|Buffalo Bills            |  1| 64.9%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Seattle Seahawks         | 12| 38.3%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Kansas City Chiefs       |  4| 55.2%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|Baltimore Ravens         |  6| 36.1%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Philadelphia Eagles      |  7| 56.1%|
+| 17|Jacksonville Jaguars     | 10| 52.9%|
+| 18|Dallas Cowboys           |  5| 43.6%|
+-----------------------------------------
+
+# 16
+Min:  35.400
+Avg:  53.792
+Sum: 645.500
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Buffalo Bills            |  1| 67.8%|
+| 11|Dallas Cowboys           |  5| 58.3%|
+| 12|Tennessee Titans         | 19| 35.4%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|Los Angeles Chargers     |  9| 49.0%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Kansas City Chiefs       |  4| 60.5%|
+| 17|Jacksonville Jaguars     | 10| 52.9%|
+| 18|Philadelphia Eagles      |  7| 53.1%|
+-----------------------------------------
+
+# 17
+Min:  35.400
+Avg:  53.283
+Sum: 639.400
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Buffalo Bills            |  1| 56.1%|
+| 12|Tennessee Titans         | 19| 35.4%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|Los Angeles Chargers     |  9| 49.0%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Kansas City Chiefs       |  4| 60.5%|
+| 17|Jacksonville Jaguars     | 10| 52.9%|
+| 18|Philadelphia Eagles      |  7| 53.1%|
+-----------------------------------------
+
+# 18
+Min:  35.400
+Avg:  53.150
+Sum: 637.800
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Tennessee Titans         | 19| 35.4%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|Los Angeles Chargers     |  9| 49.0%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Kansas City Chiefs       |  4| 60.5%|
+| 17|Buffalo Bills            |  1| 68.1%|
+| 18|Philadelphia Eagles      |  7| 53.1%|
+-----------------------------------------
+
+# 19
+Min:  35.400
+Avg:  52.833
+Sum: 634.000
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Buffalo Bills            |  1| 67.8%|
+| 11|Dallas Cowboys           |  5| 58.3%|
+| 12|Tennessee Titans         | 19| 35.4%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|New Orleans Saints       | 16| 37.5%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Kansas City Chiefs       |  4| 60.5%|
+| 17|Jacksonville Jaguars     | 10| 52.9%|
+| 18|Philadelphia Eagles      |  7| 53.1%|
+-----------------------------------------
+
+# 20
+Min:  35.400
+Avg:  52.375
+Sum: 628.500
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Buffalo Bills            |  1| 67.8%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Tennessee Titans         | 19| 35.4%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|Los Angeles Chargers     |  9| 49.0%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Kansas City Chiefs       |  4| 60.5%|
+| 17|Philadelphia Eagles      |  7| 64.4%|
+| 18|Dallas Cowboys           |  5| 43.6%|
+-----------------------------------------
+
+# 21
+Min:  35.400
+Avg:  52.342
+Sum: 628.100
+|  7|Buffalo Bills            |  1| 64.9%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Tennessee Titans         | 19| 35.4%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|Los Angeles Chargers     |  9| 49.0%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Kansas City Chiefs       |  4| 60.5%|
+| 17|Jacksonville Jaguars     | 10| 52.9%|
+| 18|Philadelphia Eagles      |  7| 53.1%|
+-----------------------------------------
+
+# 22
+Min:  35.400
+Avg:  52.325
+Sum: 627.900
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Buffalo Bills            |  1| 56.1%|
+| 12|Tennessee Titans         | 19| 35.4%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|New Orleans Saints       | 16| 37.5%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Kansas City Chiefs       |  4| 60.5%|
+| 17|Jacksonville Jaguars     | 10| 52.9%|
+| 18|Philadelphia Eagles      |  7| 53.1%|
+-----------------------------------------
+
+# 23
+Min:  35.400
+Avg:  52.208
+Sum: 626.500
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Buffalo Bills            |  1| 67.8%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Tennessee Titans         | 19| 35.4%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|Los Angeles Chargers     |  9| 49.0%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Kansas City Chiefs       |  4| 60.5%|
+| 17|Jacksonville Jaguars     | 10| 52.9%|
+| 18|Philadelphia Eagles      |  7| 53.1%|
+-----------------------------------------
+
+# 24
+Min:  35.400
+Avg:  52.192
+Sum: 626.300
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Tennessee Titans         | 19| 35.4%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|New Orleans Saints       | 16| 37.5%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Kansas City Chiefs       |  4| 60.5%|
+| 17|Buffalo Bills            |  1| 68.1%|
+| 18|Philadelphia Eagles      |  7| 53.1%|
+-----------------------------------------
+
+# 25
+Min:  35.400
+Avg:  52.125
+Sum: 625.500
+|  7|Buffalo Bills            |  1| 64.9%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Tennessee Titans         | 19| 35.4%|
+| 13|Pittsburgh Steelers      | 18| 40.8%|
+| 14|Los Angeles Chargers     |  9| 49.0%|
+| 15|Detroit Lions            |  8| 51.6%|
+| 16|Kansas City Chiefs       |  4| 60.5%|
+| 17|Philadelphia Eagles      |  7| 64.4%|
+| 18|Seattle Seahawks         | 12| 39.0%|
+-----------------------------------------

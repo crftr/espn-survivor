@@ -1,0 +1,300 @@
+
+# 1
+Min:  49.000
+Avg:  59.333
+Sum: 356.000
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|San Francisco 49ers      |  2| 67.0%|
+| 12|Los Angeles Rams         | 11| 49.0%|
+-----------------------------------------
+
+# 2
+Min:  49.000
+Avg:  57.767
+Sum: 346.600
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|San Francisco 49ers      |  2| 67.0%|
+| 12|Los Angeles Rams         | 11| 49.0%|
+-----------------------------------------
+
+# 3
+Min:  39.300
+Avg:  54.717
+Sum: 328.300
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Los Angeles Rams         | 11| 49.0%|
+-----------------------------------------
+
+# 4
+Min:  39.300
+Avg:  53.150
+Sum: 318.900
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Los Angeles Rams         | 11| 49.0%|
+-----------------------------------------
+
+# 5
+Min:  39.300
+Avg:  51.683
+Sum: 310.100
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|San Francisco 49ers      |  2| 43.8%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Los Angeles Rams         | 11| 49.0%|
+-----------------------------------------
+
+# 6
+Min:  39.300
+Avg:  51.450
+Sum: 308.700
+|  7|San Francisco 49ers      |  2| 39.8%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Los Angeles Rams         | 11| 49.0%|
+-----------------------------------------
+
+# 7
+Min:  39.300
+Avg:  49.883
+Sum: 299.300
+|  7|San Francisco 49ers      |  2| 39.8%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Los Angeles Rams         | 11| 49.0%|
+-----------------------------------------
+
+# 8
+Min:  38.300
+Avg:  50.350
+Sum: 302.100
+|  7|San Francisco 49ers      |  2| 39.8%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Seattle Seahawks         | 12| 38.3%|
+| 11|Dallas Cowboys           |  5| 58.3%|
+| 12|Los Angeles Rams         | 11| 49.0%|
+-----------------------------------------
+
+# 9
+Min:  38.300
+Avg:  48.783
+Sum: 292.700
+|  7|San Francisco 49ers      |  2| 39.8%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Seattle Seahawks         | 12| 38.3%|
+| 11|Dallas Cowboys           |  5| 58.3%|
+| 12|Los Angeles Rams         | 11| 49.0%|
+-----------------------------------------
+
+# 10
+Min:  38.300
+Avg:  47.183
+Sum: 283.100
+|  7|San Francisco 49ers      |  2| 39.8%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Seattle Seahawks         | 12| 38.3%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Los Angeles Rams         | 11| 49.0%|
+-----------------------------------------
+
+# 11
+Min:  38.300
+Avg:  45.617
+Sum: 273.700
+|  7|San Francisco 49ers      |  2| 39.8%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Seattle Seahawks         | 12| 38.3%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Los Angeles Rams         | 11| 49.0%|
+-----------------------------------------
+
+# 12
+Min:  36.400
+Avg:  42.917
+Sum: 257.500
+|  7|San Francisco 49ers      |  2| 39.8%|
+|  8|Dallas Cowboys           |  5| 36.4%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Seattle Seahawks         | 12| 38.3%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Los Angeles Rams         | 11| 49.0%|
+-----------------------------------------
+
+# 13
+Min:  35.400
+Avg:  57.067
+Sum: 342.400
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|San Francisco 49ers      |  2| 67.0%|
+| 12|Tennessee Titans         | 19| 35.4%|
+-----------------------------------------
+
+# 14
+Min:  35.400
+Avg:  55.500
+Sum: 333.000
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|San Francisco 49ers      |  2| 67.0%|
+| 12|Tennessee Titans         | 19| 35.4%|
+-----------------------------------------
+
+# 15
+Min:  35.400
+Avg:  52.450
+Sum: 314.700
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Tennessee Titans         | 19| 35.4%|
+-----------------------------------------
+
+# 16
+Min:  35.400
+Avg:  50.883
+Sum: 305.300
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Tennessee Titans         | 19| 35.4%|
+-----------------------------------------
+
+# 17
+Min:  35.400
+Avg:  49.417
+Sum: 296.500
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|San Francisco 49ers      |  2| 43.8%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Tennessee Titans         | 19| 35.4%|
+-----------------------------------------
+
+# 18
+Min:  35.400
+Avg:  49.183
+Sum: 295.100
+|  7|San Francisco 49ers      |  2| 39.8%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Tennessee Titans         | 19| 35.4%|
+-----------------------------------------
+
+# 19
+Min:  35.400
+Avg:  48.083
+Sum: 288.500
+|  7|San Francisco 49ers      |  2| 39.8%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Seattle Seahawks         | 12| 38.3%|
+| 11|Dallas Cowboys           |  5| 58.3%|
+| 12|Tennessee Titans         | 19| 35.4%|
+-----------------------------------------
+
+# 20
+Min:  35.400
+Avg:  47.617
+Sum: 285.700
+|  7|San Francisco 49ers      |  2| 39.8%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Tennessee Titans         | 19| 35.4%|
+-----------------------------------------
+
+# 21
+Min:  35.400
+Avg:  46.517
+Sum: 279.100
+|  7|San Francisco 49ers      |  2| 39.8%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Seattle Seahawks         | 12| 38.3%|
+| 11|Dallas Cowboys           |  5| 58.3%|
+| 12|Tennessee Titans         | 19| 35.4%|
+-----------------------------------------
+
+# 22
+Min:  35.400
+Avg:  44.917
+Sum: 269.500
+|  7|San Francisco 49ers      |  2| 39.8%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Seattle Seahawks         | 12| 38.3%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Tennessee Titans         | 19| 35.4%|
+-----------------------------------------
+
+# 23
+Min:  35.400
+Avg:  43.350
+Sum: 260.100
+|  7|San Francisco 49ers      |  2| 39.8%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Seattle Seahawks         | 12| 38.3%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Tennessee Titans         | 19| 35.4%|
+-----------------------------------------
+
+# 24
+Min:  35.400
+Avg:  40.650
+Sum: 243.900
+|  7|San Francisco 49ers      |  2| 39.8%|
+|  8|Dallas Cowboys           |  5| 36.4%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Seattle Seahawks         | 12| 38.3%|
+| 11|Houston Texans           | 21| 39.3%|
+| 12|Tennessee Titans         | 19| 35.4%|
+-----------------------------------------
+
+# 25
+Min:  32.200
+Avg:  54.367
+Sum: 326.200
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|New York Jets            | 17| 32.2%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+| 11|San Francisco 49ers      |  2| 67.0%|
+| 12|Los Angeles Rams         | 11| 49.0%|
+-----------------------------------------

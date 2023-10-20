@@ -1,0 +1,250 @@
+
+# 1
+Min:  54.700
+Avg:  60.000
+Sum: 240.000
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+-----------------------------------------
+
+# 2
+Min:  52.600
+Avg:  57.650
+Sum: 230.600
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+-----------------------------------------
+
+# 3
+Min:  42.900
+Avg:  55.225
+Sum: 220.900
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Philadelphia Eagles      |  7| 42.9%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+-----------------------------------------
+
+# 4
+Min:  32.200
+Avg:  52.550
+Sum: 210.200
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|New York Jets            | 17| 32.2%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+-----------------------------------------
+
+# 5
+Min:  28.900
+Avg:  51.200
+Sum: 204.800
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Baltimore Ravens         |  6| 28.9%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+-----------------------------------------
+
+# 6
+Min:  28.900
+Avg:  48.775
+Sum: 195.100
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Philadelphia Eagles      |  7| 42.9%|
+|  9|Baltimore Ravens         |  6| 28.9%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+-----------------------------------------
+
+# 7
+Min:  28.900
+Avg:  46.100
+Sum: 184.400
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|New York Jets            | 17| 32.2%|
+|  9|Baltimore Ravens         |  6| 28.9%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+-----------------------------------------
+
+# 8
+Min:  26.100
+Avg:  52.850
+Sum: 211.400
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|New Orleans Saints       | 16| 26.1%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+-----------------------------------------
+
+# 9
+Min:  26.100
+Avg:  50.500
+Sum: 202.000
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|New Orleans Saints       | 16| 26.1%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+-----------------------------------------
+
+# 10
+Min:  26.100
+Avg:  48.075
+Sum: 192.300
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Philadelphia Eagles      |  7| 42.9%|
+|  9|New Orleans Saints       | 16| 26.1%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+-----------------------------------------
+
+# 11
+Min:  26.100
+Avg:  45.400
+Sum: 181.600
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|New York Jets            | 17| 32.2%|
+|  9|New Orleans Saints       | 16| 26.1%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+-----------------------------------------
+
+# 12
+Min:  25.700
+Avg:  48.100
+Sum: 192.400
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Baltimore Ravens         |  6| 25.7%|
+-----------------------------------------
+
+# 13
+Min:  25.700
+Avg:  45.675
+Sum: 182.700
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Philadelphia Eagles      |  7| 42.9%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Baltimore Ravens         |  6| 25.7%|
+-----------------------------------------
+
+# 14
+Min:  25.700
+Avg:  44.050
+Sum: 176.200
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Dallas Cowboys           |  5| 36.4%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Baltimore Ravens         |  6| 25.7%|
+-----------------------------------------
+
+# 15
+Min:  25.700
+Avg:  43.000
+Sum: 172.000
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|New York Jets            | 17| 32.2%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Baltimore Ravens         |  6| 25.7%|
+-----------------------------------------
+
+# 16
+Min:  25.700
+Avg:  40.950
+Sum: 163.800
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|New Orleans Saints       | 16| 26.1%|
+| 10|Baltimore Ravens         |  6| 25.7%|
+-----------------------------------------
+
+# 17
+Min:  25.700
+Avg:  38.525
+Sum: 154.100
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Philadelphia Eagles      |  7| 42.9%|
+|  9|New Orleans Saints       | 16| 26.1%|
+| 10|Baltimore Ravens         |  6| 25.7%|
+-----------------------------------------
+
+# 18
+Min:  25.700
+Avg:  36.900
+Sum: 147.600
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|Dallas Cowboys           |  5| 36.4%|
+|  9|New Orleans Saints       | 16| 26.1%|
+| 10|Baltimore Ravens         |  6| 25.7%|
+-----------------------------------------
+
+# 19
+Min:  25.700
+Avg:  35.850
+Sum: 143.400
+|  7|Seattle Seahawks         | 12| 59.4%|
+|  8|New York Jets            | 17| 32.2%|
+|  9|New Orleans Saints       | 16| 26.1%|
+| 10|Baltimore Ravens         |  6| 25.7%|
+-----------------------------------------
+
+# 20
+Min:  24.900
+Avg:  51.375
+Sum: 205.500
+|  7|Chicago Bears            | 28| 24.9%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+-----------------------------------------
+
+# 21
+Min:  24.900
+Avg:  49.025
+Sum: 196.100
+|  7|Chicago Bears            | 28| 24.9%|
+|  8|Los Angeles Chargers     |  9| 52.6%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+-----------------------------------------
+
+# 22
+Min:  24.900
+Avg:  46.600
+Sum: 186.400
+|  7|Chicago Bears            | 28| 24.9%|
+|  8|Philadelphia Eagles      |  7| 42.9%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+-----------------------------------------
+
+# 23
+Min:  24.900
+Avg:  44.975
+Sum: 179.900
+|  7|Chicago Bears            | 28| 24.9%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Seattle Seahawks         | 12| 38.3%|
+-----------------------------------------
+
+# 24
+Min:  24.900
+Avg:  44.225
+Sum: 176.900
+|  7|Chicago Bears            | 28| 24.9%|
+|  8|Baltimore Ravens         |  6| 62.0%|
+|  9|New Orleans Saints       | 16| 26.1%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+-----------------------------------------
+
+# 25
+Min:  24.900
+Avg:  43.925
+Sum: 175.700
+|  7|Chicago Bears            | 28| 24.9%|
+|  8|New York Jets            | 17| 32.2%|
+|  9|Cleveland Browns         | 13| 54.7%|
+| 10|Dallas Cowboys           |  5| 63.9%|
+-----------------------------------------
