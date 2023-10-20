@@ -24,3 +24,7 @@ There are 32 teams in the NFL and 18 weeks in the regular season for 2021. The n
 
 ...
 
+### Other interesting sources
+
+https://www.espn.com/nfl/picks
+https://www.nfeloapp.com/games/nfl-ev-bets
