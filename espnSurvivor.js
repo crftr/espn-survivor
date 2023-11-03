@@ -22,11 +22,8 @@ const userConfigs = [
   lmsConfig.miguel,
   lmsConfig.mike,
   lmsConfig.genie,
-  lmsConfig.nana,
-  lmsConfig.two_michael,
   lmsConfig.two_miguel,
   lmsConfig.two_mikael,
-  lmsConfig.two_mike,
 ];
 
 const LOG_INTERVAL = lmsConfig.logInterval;
