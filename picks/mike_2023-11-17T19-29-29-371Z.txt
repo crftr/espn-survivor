@@ -1,0 +1,350 @@
+
+# 1
+Min:  39.300
+Avg:  60.200
+Sum: 481.600
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Tampa Bay Buccaneers     | 19| 39.3%|
+| 14|Baltimore Ravens         |  3| 57.0%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Kansas City Chiefs       |  2| 73.7%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Philadelphia Eagles      |  7| 77.9%|
+-----------------------------------------
+
+# 2
+Min:  39.300
+Avg:  58.825
+Sum: 470.600
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Tampa Bay Buccaneers     | 19| 39.3%|
+| 14|Los Angeles Chargers     |  8| 48.3%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Kansas City Chiefs       |  2| 73.7%|
+| 17|Philadelphia Eagles      |  7| 67.6%|
+| 18|Baltimore Ravens         |  3| 48.0%|
+-----------------------------------------
+
+# 3
+Min:  39.300
+Avg:  54.475
+Sum: 435.800
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Tampa Bay Buccaneers     | 19| 39.3%|
+| 14|New Orleans Saints       | 16| 45.0%|
+| 15|Kansas City Chiefs       |  2| 53.0%|
+| 16|Philadelphia Eagles      |  7| 80.1%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Baltimore Ravens         |  3| 48.0%|
+-----------------------------------------
+
+# 4
+Min:  38.900
+Avg:  60.150
+Sum: 481.200
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Pittsburgh Steelers      | 17| 38.9%|
+| 14|Baltimore Ravens         |  3| 57.0%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Kansas City Chiefs       |  2| 73.7%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Philadelphia Eagles      |  7| 77.9%|
+-----------------------------------------
+
+# 5
+Min:  38.900
+Avg:  58.775
+Sum: 470.200
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Pittsburgh Steelers      | 17| 38.9%|
+| 14|Los Angeles Chargers     |  8| 48.3%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Kansas City Chiefs       |  2| 73.7%|
+| 17|Philadelphia Eagles      |  7| 67.6%|
+| 18|Baltimore Ravens         |  3| 48.0%|
+-----------------------------------------
+
+# 6
+Min:  38.900
+Avg:  54.425
+Sum: 435.400
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Pittsburgh Steelers      | 17| 38.9%|
+| 14|New Orleans Saints       | 16| 45.0%|
+| 15|Kansas City Chiefs       |  2| 53.0%|
+| 16|Philadelphia Eagles      |  7| 80.1%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Baltimore Ravens         |  3| 48.0%|
+-----------------------------------------
+
+# 7
+Min:  36.300
+Avg:  57.612
+Sum: 460.900
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Tampa Bay Buccaneers     | 19| 39.3%|
+| 14|Green Bay Packers        | 20| 36.3%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Kansas City Chiefs       |  2| 73.7%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Philadelphia Eagles      |  7| 77.9%|
+-----------------------------------------
+
+# 8
+Min:  36.300
+Avg:  57.563
+Sum: 460.500
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Pittsburgh Steelers      | 17| 38.9%|
+| 14|Green Bay Packers        | 20| 36.3%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Kansas City Chiefs       |  2| 73.7%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Philadelphia Eagles      |  7| 77.9%|
+-----------------------------------------
+
+# 9
+Min:  36.300
+Avg:  57.375
+Sum: 459.000
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|Kansas City Chiefs       |  2| 70.9%|
+| 13|Tampa Bay Buccaneers     | 19| 39.3%|
+| 14|Green Bay Packers        | 20| 36.3%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Philadelphia Eagles      |  7| 80.1%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Baltimore Ravens         |  3| 48.0%|
+-----------------------------------------
+
+# 10
+Min:  36.300
+Avg:  57.325
+Sum: 458.600
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Tampa Bay Buccaneers     | 19| 39.3%|
+| 14|Green Bay Packers        | 20| 36.3%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Kansas City Chiefs       |  2| 73.7%|
+| 17|Philadelphia Eagles      |  7| 67.6%|
+| 18|Baltimore Ravens         |  3| 48.0%|
+-----------------------------------------
+
+# 11
+Min:  36.300
+Avg:  57.325
+Sum: 458.600
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|Kansas City Chiefs       |  2| 70.9%|
+| 13|Pittsburgh Steelers      | 17| 38.9%|
+| 14|Green Bay Packers        | 20| 36.3%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Philadelphia Eagles      |  7| 80.1%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Baltimore Ravens         |  3| 48.0%|
+-----------------------------------------
+
+# 12
+Min:  36.300
+Avg:  57.275
+Sum: 458.200
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Pittsburgh Steelers      | 17| 38.9%|
+| 14|Green Bay Packers        | 20| 36.3%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Kansas City Chiefs       |  2| 73.7%|
+| 17|Philadelphia Eagles      |  7| 67.6%|
+| 18|Baltimore Ravens         |  3| 48.0%|
+-----------------------------------------
+
+# 13
+Min:  36.300
+Avg:  56.162
+Sum: 449.300
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Kansas City Chiefs       |  2| 51.2%|
+| 14|Green Bay Packers        | 20| 36.3%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Philadelphia Eagles      |  7| 80.1%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Baltimore Ravens         |  3| 48.0%|
+-----------------------------------------
+
+# 14
+Min:  36.300
+Avg:  54.675
+Sum: 437.400
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Tampa Bay Buccaneers     | 19| 39.3%|
+| 14|Green Bay Packers        | 20| 36.3%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Philadelphia Eagles      |  7| 80.1%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Baltimore Ravens         |  3| 48.0%|
+-----------------------------------------
+
+# 15
+Min:  36.300
+Avg:  54.625
+Sum: 437.000
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Pittsburgh Steelers      | 17| 38.9%|
+| 14|Green Bay Packers        | 20| 36.3%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Philadelphia Eagles      |  7| 80.1%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Baltimore Ravens         |  3| 48.0%|
+-----------------------------------------
+
+# 16
+Min:  36.300
+Avg:  53.875
+Sum: 431.000
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Tampa Bay Buccaneers     | 19| 39.3%|
+| 14|Green Bay Packers        | 20| 36.3%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Kansas City Chiefs       |  2| 73.7%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Baltimore Ravens         |  3| 48.0%|
+-----------------------------------------
+
+# 17
+Min:  36.300
+Avg:  53.825
+Sum: 430.600
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Pittsburgh Steelers      | 17| 38.9%|
+| 14|Green Bay Packers        | 20| 36.3%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Kansas City Chiefs       |  2| 73.7%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Baltimore Ravens         |  3| 48.0%|
+-----------------------------------------
+
+# 18
+Min:  36.300
+Avg:  53.388
+Sum: 427.100
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Tampa Bay Buccaneers     | 19| 39.3%|
+| 14|Green Bay Packers        | 20| 36.3%|
+| 15|Kansas City Chiefs       |  2| 53.0%|
+| 16|Philadelphia Eagles      |  7| 80.1%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Baltimore Ravens         |  3| 48.0%|
+-----------------------------------------
+
+# 19
+Min:  36.300
+Avg:  53.337
+Sum: 426.700
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Pittsburgh Steelers      | 17| 38.9%|
+| 14|Green Bay Packers        | 20| 36.3%|
+| 15|Kansas City Chiefs       |  2| 53.0%|
+| 16|Philadelphia Eagles      |  7| 80.1%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Baltimore Ravens         |  3| 48.0%|
+-----------------------------------------
+
+# 20
+Min:  35.600
+Avg:  56.862
+Sum: 454.900
+| 11|Miami Dolphins           |  6| 81.1%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Los Angeles Chargers     |  8| 35.6%|
+| 14|Green Bay Packers        | 20| 36.3%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Kansas City Chiefs       |  2| 73.7%|
+| 17|Philadelphia Eagles      |  7| 67.6%|
+| 18|Baltimore Ravens         |  3| 48.0%|
+-----------------------------------------
+
+# 21
+Min:  35.300
+Avg:  56.338
+Sum: 450.700
+| 11|Houston Texans           | 18| 35.3%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Miami Dolphins           |  6| 54.2%|
+| 14|Baltimore Ravens         |  3| 57.0%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Kansas City Chiefs       |  2| 73.7%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Philadelphia Eagles      |  7| 77.9%|
+-----------------------------------------
+
+# 22
+Min:  35.300
+Avg:  55.425
+Sum: 443.400
+| 11|Houston Texans           | 18| 35.3%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Tampa Bay Buccaneers     | 19| 39.3%|
+| 14|Miami Dolphins           |  6| 64.6%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Kansas City Chiefs       |  2| 73.7%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Philadelphia Eagles      |  7| 77.9%|
+-----------------------------------------
+
+# 23
+Min:  35.300
+Avg:  55.375
+Sum: 443.000
+| 11|Houston Texans           | 18| 35.3%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Pittsburgh Steelers      | 17| 38.9%|
+| 14|Miami Dolphins           |  6| 64.6%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Kansas City Chiefs       |  2| 73.7%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Philadelphia Eagles      |  7| 77.9%|
+-----------------------------------------
+
+# 24
+Min:  35.300
+Avg:  55.188
+Sum: 441.500
+| 11|Houston Texans           | 18| 35.3%|
+| 12|Kansas City Chiefs       |  2| 70.9%|
+| 13|Tampa Bay Buccaneers     | 19| 39.3%|
+| 14|Miami Dolphins           |  6| 64.6%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Philadelphia Eagles      |  7| 80.1%|
+| 17|Los Angeles Chargers     |  8| 40.0%|
+| 18|Baltimore Ravens         |  3| 48.0%|
+-----------------------------------------
+
+# 25
+Min:  35.300
+Avg:  55.138
+Sum: 441.100
+| 11|Houston Texans           | 18| 35.3%|
+| 12|New England Patriots     | 24| 49.3%|
+| 13|Tampa Bay Buccaneers     | 19| 39.3%|
+| 14|Miami Dolphins           |  6| 64.6%|
+| 15|New Orleans Saints       | 16| 63.3%|
+| 16|Kansas City Chiefs       |  2| 73.7%|
+| 17|Philadelphia Eagles      |  7| 67.6%|
+| 18|Baltimore Ravens         |  3| 48.0%|
+-----------------------------------------
