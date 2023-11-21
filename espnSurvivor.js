@@ -18,10 +18,7 @@ const { writeTopChoicesToFile } = require("./lib/espn/espnWriteTopChoices");
 
 // /* CONFIG */
 const userConfigs = [
-  lmsConfig.michael,
-  lmsConfig.miguel,
   lmsConfig.mike,
-  lmsConfig.genie,
   lmsConfig.two_miguel,
 ];
 
@@ -58,7 +55,7 @@ const TOP_COMBINATIONS = lmsConfig.topCombinations;
         ENDING_WEEK
       );
       espnData = removeCompletedGames(espnData);
-      espnData = removeThursdayGames(espnData);
+      espnData = removeThursdayGames(espnData, [12]);
       espnData = filterOutPastPicks(espnData, PAST_PICKS);
       espnData = filterByPercentageDifference(
         espnData,
