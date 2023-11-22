@@ -21,6 +21,7 @@ module.exports = {
     ],
     STARTING_WEEK: 1,
     ENDING_WEEK: 18,
+    TEAM_RANKING_THRESHOLD: 20,
     PERCENTAGE_DIFFERENCE_THRESHOLD: 25,
   },
 
@@ -37,6 +38,7 @@ module.exports = {
     ],
     STARTING_WEEK: 7,
     ENDING_WEEK: 18,
+    TEAM_RANKING_THRESHOLD: 20,
     PERCENTAGE_DIFFERENCE_THRESHOLD: 25,
   },
 

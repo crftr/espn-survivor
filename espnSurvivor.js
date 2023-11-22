@@ -5,6 +5,7 @@ const {
   removeCompletedGames,
   removeThursdayGames,
   filterByPercentageDifference,
+  filterByRanking,
   filterOutPastPicks,
   filterByWeekRange,
 } = require("./lib/espn/espnFilterFunctions");
@@ -34,6 +35,7 @@ const TOP_COMBINATIONS = lmsConfig.topCombinations;
       const ENDING_WEEK = userConfig.ENDING_WEEK;
       const PERCENTAGE_DIFFERENCE_THRESHOLD =
         userConfig.PERCENTAGE_DIFFERENCE_THRESHOLD;
+      const TEAM_RANKING_THRESHOLD = userConfig.TEAM_RANKING_THRESHOLD;
 
       const espnCsv = await espnCsvLoader();
 
@@ -55,8 +57,9 @@ const TOP_COMBINATIONS = lmsConfig.topCombinations;
         ENDING_WEEK
       );
       espnData = removeCompletedGames(espnData);
-      espnData = removeThursdayGames(espnData, [12]);
+      espnData = removeThursdayGames(espnData, [12]); // Keep Thursday games during Week 12 (i.e. Thanksgiving)
       espnData = filterOutPastPicks(espnData, PAST_PICKS);
+      espnData = filterByRanking(espnData, TEAM_RANKING_THRESHOLD);
       espnData = filterByPercentageDifference(
         espnData,
         PERCENTAGE_DIFFERENCE_THRESHOLD
