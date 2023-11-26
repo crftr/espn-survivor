@@ -143,8 +143,10 @@ async function getMatchupPredictorStats(gameLink, week) {
   const date = $(".ScoreCell__ScoreDate.Gamestrip__ScoreDate").text();
   const dateDayOfWeek = getDayOfWeek(date);
 
+  const projectedWinnersWinProbability = Math.max(awayPercentage, homePercentage);
+  const projectedLoserWinProbability = Math.min(awayPercentage, homePercentage);
   const projectedWinnersPercentageDifference = parseFloat(
-    Math.abs(awayPercentage - homePercentage).toFixed(2)
+    (projectedWinnersWinProbability - projectedLoserWinProbability).toFixed(2)
   );
 
   const stats = {
@@ -161,6 +163,8 @@ async function getMatchupPredictorStats(gameLink, week) {
     ).text(),
     homePercentage,
     projectedWinner,
+    projectedWinnersWinProbability,
+    projectedLoserWinProbability,
     projectedWinnersPercentageDifference,
   };
 
@@ -189,6 +193,7 @@ function writeStatsToCSV(gameStatsArray, futures, powerIndex) {
     "Day of Week",
     "Projected Winner",
     "Projected Winner's Rank",
+    "Projected Winner's Percentage",
     "Projected Winner's Percentage Difference",
     "Rank Difference",
     "Projected Winner Futures Difference",
@@ -231,6 +236,7 @@ function writeStatsToCSV(gameStatsArray, futures, powerIndex) {
         gameCompleted ? '' : gameStats.dateDayOfWeek,
         gameStats.projectedWinner,
         projectedWinnersRank,
+        gameCompleted ? '' : gameStats.projectedWinnersWinProbability,
         gameCompleted ? '' : gameStats.projectedWinnersPercentageDifference,
         rankDifference,
         projectedWinnerFuturesDifference,
