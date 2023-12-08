@@ -64,43 +64,6 @@ async function getTeamFpi() {
   }
 }
 
-async function getTeamFutures() {
-  const url = "https://www.espn.com/nfl/futures";
-  console.log(`Fetching team futures...`);
-  const { data } = await axiosInstance.get(url);
-  const $ = cheerio.load(data);
-  const futures = {};
-
-  $("tbody tr.Table__TR").each((i, element) => {
-    let text = $(element).text();
-    let dIdx = element.attribs["data-idx"];
-    if (dIdx) {
-      if (futures[dIdx]) {
-        const scores = text.split("+");
-        futures[dIdx].push(parseInt(scores[1]));
-        futures[dIdx].push(parseInt(scores[2]));
-      } else {
-        futures[dIdx] = [text];
-      }
-    }
-  });
-
-  for (let key in futures) {
-    const team = futures[key][0];
-    const sportsBookNJ = futures[key][1];
-    const sportsBookCO = futures[key][2];
-
-    futures[team] = {
-      rank: parseInt(key),
-      sportsBookNJ: sportsBookNJ,
-      sportsBookCO: sportsBookCO,
-      type: "byTeam",
-    };
-  }
-
-  return futures;
-}
-
 async function getGameLinks(week) {
   const url = `${BASE_URL}${week}/year/${YEAR}/seasontype/${SEASON_TYPE}`;
   console.log(`Fetching game links for week ${week}...`);
@@ -172,7 +135,7 @@ async function getMatchupPredictorStats(gameLink, week) {
   return stats;
 }
 
-function writeStatsToCSV(gameStatsArray, futures, powerIndex) {
+function writeStatsToCSV(gameStatsArray, powerIndex) {
   // Sort the gameStatsArray by week and then by Projected Winner's Percentage Difference
   gameStatsArray.sort((a, b) => {
     if (a.week !== b.week) {
@@ -196,32 +159,19 @@ function writeStatsToCSV(gameStatsArray, futures, powerIndex) {
     "Projected Winner's Percentage",
     "Projected Winner's Percentage Difference",
     "Rank Difference",
-    "Projected Winner Futures Difference",
     "Away Team",
-    "Away Rank",
     "Away Percentage",
-    "Away Futures NJ",
-    "Away-Home Futures NJ difference",
     "Home Team",
-    "Home Rank",
     "Home Percentage",
-    "Home Futures NJ",
-    "Home-Away Futures NJ difference",
     "Game URL",
   ];
 
   const csvContent = [
     header.join(","),
     ...gameStatsArray.map((gameStats) => {
-      const futuresAway = futures[gameStats.awayTeam];
-      const futuresHome = futures[gameStats.homeTeam];
       const powerIndexAway = powerIndex[gameStats.awayTeam];
       const powerIndexHome = powerIndex[gameStats.homeTeam];
 
-      const projectedWinnerFuturesDifference =
-        gameStats.projectedWinner === gameStats.awayTeam
-          ? futuresAway.sportsBookNJ - futuresHome.sportsBookNJ
-          : futuresHome.sportsBookNJ - futuresAway.sportsBookNJ;
       const rankDifference = Math.abs(powerIndexAway.rank - powerIndexHome.rank);
       const projectedWinnersRank =
         gameStats.projectedWinner === gameStats.awayTeam
@@ -239,17 +189,10 @@ function writeStatsToCSV(gameStatsArray, futures, powerIndex) {
         gameCompleted ? '' : gameStats.projectedWinnersWinProbability,
         gameCompleted ? '' : gameStats.projectedWinnersPercentageDifference,
         rankDifference,
-        projectedWinnerFuturesDifference,
         gameStats.awayTeam,
-        futuresAway.rank,
         gameStats.awayPercentage,
-        futuresAway.sportsBookNJ,
-        futuresAway.sportsBookNJ - futuresHome.sportsBookNJ,
         gameStats.homeTeam,
-        futuresHome.rank,
         gameStats.homePercentage,
-        futuresHome.sportsBookNJ,
-        futuresHome.sportsBookNJ - futuresAway.sportsBookNJ,
         gameStats.gameUrl,
       ].join(",");
     }),
@@ -275,7 +218,6 @@ function getDayOfWeek(dateStr) {
 // Main function to fetch and write stats
 (async () => {
   try {
-    const futures = await getTeamFutures();
     const powerIndex = await getTeamFpi();
 
     const gameStats = [];
@@ -287,7 +229,7 @@ function getDayOfWeek(dateStr) {
       }
     }
 
-    writeStatsToCSV(gameStats, futures, powerIndex);
+    writeStatsToCSV(gameStats, powerIndex);
   } catch (error) {
     console.error("An error occurred:", error.message);
   }

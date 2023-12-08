@@ -19,7 +19,6 @@ const { writeTopChoicesToFile } = require("./lib/espn/espnWriteTopChoices");
 
 // /* CONFIG */
 const userConfigs = [
-  lmsConfig.mike,
   lmsConfig.two_miguel,
 ];
 
@@ -57,7 +56,7 @@ const TOP_COMBINATIONS = lmsConfig.topCombinations;
         ENDING_WEEK
       );
       espnData = removeCompletedGames(espnData);
-      espnData = removeThursdayGames(espnData, [12]); // Keep Thursday games during Week 12 (i.e. Thanksgiving)
+      espnData = removeThursdayGames(espnData, [12]); // Keep Thursday games during Week 12 (i.e. Thanksgiving exception)
       espnData = filterOutPastPicks(espnData, PAST_PICKS);
       espnData = filterByRanking(espnData, TEAM_RANKING_THRESHOLD);
       espnData = filterByPercentageDifference(
