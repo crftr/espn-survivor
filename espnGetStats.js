@@ -4,7 +4,7 @@ const fs = require("fs");
 const path = require("path");
 
 const BASE_URL = "https://www.espn.com/nfl/schedule/_/week/";
-const YEAR = "2023";
+const YEAR = "2024";
 const SEASON_TYPE = "2";
 const NUMBER_OF_TEAMS = 32;
 const USER_AGENT =
@@ -73,7 +73,7 @@ async function getGameLinks(week) {
 
   $("a").each((i, element) => {
     const link = $(element).attr("href");
-    if (link && link.includes("/game?gameId=")) {
+    if (link && link.includes("game/_/gameId")) {
       gameLinks.push(`https://www.espn.com${link}`);
     }
   });
@@ -118,11 +118,11 @@ async function getMatchupPredictorStats(gameLink, week) {
     date,
     dateDayOfWeek,
     awayTeam: $(
-      ".Gamestrip__Team.Gamestrip__Team--away .ScoreCell__TeamName"
+      ".Gamestrip__TeamContent--left .ScoreCell__TeamName"
     ).text(),
     awayPercentage,
     homeTeam: $(
-      ".Gamestrip__Team.Gamestrip__Team--home .ScoreCell__TeamName"
+      ".Gamestrip__TeamContent--right .ScoreCell__TeamName"
     ).text(),
     homePercentage,
     projectedWinner,
