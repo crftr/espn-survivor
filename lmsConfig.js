@@ -2,6 +2,28 @@ module.exports = {
   logInterval: 300000,
   topCombinations: 25,
 
+  she1: {
+    FILE_PREFIX: "she1",
+    PAST_PICKS: [
+      "Chicago Bears",
+    ],
+    STARTING_WEEK: 1,
+    ENDING_WEEK: 17,
+    TEAM_RANKING_THRESHOLD: 25,
+    PERCENTAGE_DIFFERENCE_THRESHOLD: 20,
+  },
+
+  she2: {
+    FILE_PREFIX: "she2",
+    PAST_PICKS: [
+      "Cincinnati Bengals",
+    ],
+    STARTING_WEEK: 1,
+    ENDING_WEEK: 12,
+    TEAM_RANKING_THRESHOLD: 25,
+    PERCENTAGE_DIFFERENCE_THRESHOLD: 20,
+  },
+
   // LMS 2
 
   two_miguel: {

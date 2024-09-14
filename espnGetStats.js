@@ -91,14 +91,16 @@ async function getMatchupPredictorStats(gameLink, week) {
   let awayPercentage = parseFloat(percentages[0]);
   let homePercentage = parseFloat(percentages[1]);
 
+  debugger;
+
   let projectedWinner;
   if (awayPercentage > homePercentage) {
     projectedWinner = $(
-      ".Gamestrip__Team.Gamestrip__Team--away .ScoreCell__TeamName"
+      ".Gamestrip__TeamContent--left .ScoreCell__TeamName"
     ).text();
   } else {
     projectedWinner = $(
-      ".Gamestrip__Team.Gamestrip__Team--home .ScoreCell__TeamName"
+      ".Gamestrip__TeamContent--right .ScoreCell__TeamName"
     ).text();
   }
 
