@@ -7,6 +7,7 @@ module.exports = {
     PAST_PICKS: [
       "Chicago Bears",
       "Los Angeles Chargers",
+      "Tampa Bay Buccaneers",
     ],
     STARTING_WEEK: 1,
     ENDING_WEEK: 17,
@@ -33,5 +34,4 @@ module.exports = {
     TEAM_RANKING_THRESHOLD: 25,
     PERCENTAGE_DIFFERENCE_THRESHOLD: 25,
   },
-
 };
