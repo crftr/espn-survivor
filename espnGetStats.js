@@ -91,8 +91,6 @@ async function getMatchupPredictorStats(gameLink, week) {
   let awayPercentage = parseFloat(percentages[0]);
   let homePercentage = parseFloat(percentages[1]);
 
-  debugger;
-
   let projectedWinner;
   if (awayPercentage > homePercentage) {
     projectedWinner = $(
@@ -104,9 +102,13 @@ async function getMatchupPredictorStats(gameLink, week) {
     ).text();
   }
 
-  // date is in the format:  "9/17"
-  const date = $(".ScoreCell__ScoreDate.Gamestrip__ScoreDate").text();
-  const dateDayOfWeek = getDayOfWeek(date);
+  const pageTitleText = $('title').text();
+
+  // Date format e.g. Sep 8, 2024
+  const titleDateRegex= pageTitleText.match(/\w{3,}\ \d{1,2},\ \d{4}/);
+  const gameDate = new Date(titleDateRegex[0])
+  const dayOfWeek = getDayOfWeek(gameDate);
+  const date = gameDate.toDateString();
 
   const projectedWinnersWinProbability = Math.max(awayPercentage, homePercentage);
   const projectedLoserWinProbability = Math.min(awayPercentage, homePercentage);
@@ -118,7 +120,7 @@ async function getMatchupPredictorStats(gameLink, week) {
     gameUrl: gameLink,
     week,
     date,
-    dateDayOfWeek,
+    dayOfWeek: dayOfWeek,
     awayTeam: $(
       ".Gamestrip__TeamContent--left .ScoreCell__TeamName"
     ).text(),
@@ -185,7 +187,7 @@ function writeStatsToCSV(gameStatsArray, powerIndex) {
       return [
         gameCompleted,
         gameStats.week,
-        gameCompleted ? '' : gameStats.dateDayOfWeek,
+        gameStats.dayOfWeek,
         gameStats.projectedWinner,
         projectedWinnersRank,
         gameCompleted ? '' : gameStats.projectedWinnersWinProbability,
@@ -208,11 +210,7 @@ function writeStatsToCSV(gameStatsArray, powerIndex) {
   console.log(`Stats written to ${filename}`);
 }
 
-function getDayOfWeek(dateStr) {
-  let [month, day] = dateStr.split('/');
-  let year = (parseInt(month) >= 7) ? 2023 : 2024;
-
-  const date = new Date(`${month}/${day}/${year}`);
+function getDayOfWeek(date) {
   const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
   return days[date.getDay()];
 }

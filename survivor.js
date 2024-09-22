@@ -20,7 +20,6 @@ const { writeTopChoicesToFile } = require("./lib/espn/espnWriteTopChoices");
 // /* CONFIG */
 const userConfigs = [
   lmsConfig.she1,
-  lmsConfig.she2,
 ];
 
 const LOG_INTERVAL = lmsConfig.logInterval;
