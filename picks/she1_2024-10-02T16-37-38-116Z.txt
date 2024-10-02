@@ -1,0 +1,350 @@
+
+# 1
+Min:  25.500
+Avg:  38.389
+Sum: 345.500
+  5|Seattle Seahawks         | 18|  65.3%|  30.9%
+  6|Philadelphia Eagles      |  9|  68.0%|  36.3%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|New York Jets            | 10|  68.3%|  36.9%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|Detroit Lions            |  4|  70.3%|  40.9%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 2
+Min:  25.500
+Avg:  38.244
+Sum: 344.200
+  5|Seattle Seahawks         | 18|  65.3%|  30.9%
+  6|Philadelphia Eagles      |  9|  68.0%|  36.3%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|Detroit Lions            |  4|  72.9%|  46.0%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|New Orleans Saints       |  7|  65.1%|  30.5%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 3
+Min:  25.500
+Avg:  38.033
+Sum: 342.300
+  5|Seattle Seahawks         | 18|  65.3%|  30.9%
+  6|Houston Texans           | 12|  66.4%|  33.1%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|New York Jets            | 10|  68.3%|  36.9%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|Detroit Lions            |  4|  70.3%|  40.9%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 4
+Min:  25.500
+Avg:  37.944
+Sum: 341.500
+  5|Seattle Seahawks         | 18|  65.3%|  30.9%
+  6|Philadelphia Eagles      |  9|  68.0%|  36.3%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|Pittsburgh Steelers      | 15|  66.3%|  32.9%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|Detroit Lions            |  4|  70.3%|  40.9%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 5
+Min:  25.500
+Avg:  37.922
+Sum: 341.300
+  5|Washington Commanders    | 13|  63.2%|  26.7%
+  6|Philadelphia Eagles      |  9|  68.0%|  36.3%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|New York Jets            | 10|  68.3%|  36.9%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|Detroit Lions            |  4|  70.3%|  40.9%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 6
+Min:  25.500
+Avg:  37.889
+Sum: 341.000
+  5|Seattle Seahawks         | 18|  65.3%|  30.9%
+  6|Houston Texans           | 12|  66.4%|  33.1%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|Detroit Lions            |  4|  72.9%|  46.0%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|New Orleans Saints       |  7|  65.1%|  30.5%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 7
+Min:  25.500
+Avg:  37.778
+Sum: 340.000
+  5|Washington Commanders    | 13|  63.2%|  26.7%
+  6|Philadelphia Eagles      |  9|  68.0%|  36.3%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|Detroit Lions            |  4|  72.9%|  46.0%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|New Orleans Saints       |  7|  65.1%|  30.5%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 8
+Min:  25.500
+Avg:  37.589
+Sum: 338.300
+  5|Seattle Seahawks         | 18|  65.3%|  30.9%
+  6|Houston Texans           | 12|  66.4%|  33.1%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|Pittsburgh Steelers      | 15|  66.3%|  32.9%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|Detroit Lions            |  4|  70.3%|  40.9%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 9
+Min:  25.500
+Avg:  37.589
+Sum: 338.300
+  5|Seattle Seahawks         | 18|  65.3%|  30.9%
+  6|Green Bay Packers        |  6|  64.4%|  29.1%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|New York Jets            | 10|  68.3%|  36.9%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|Detroit Lions            |  4|  70.3%|  40.9%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 10
+Min:  25.500
+Avg:  37.567
+Sum: 338.100
+  5|Washington Commanders    | 13|  63.2%|  26.7%
+  6|Houston Texans           | 12|  66.4%|  33.1%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|New York Jets            | 10|  68.3%|  36.9%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|Detroit Lions            |  4|  70.3%|  40.9%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 11
+Min:  25.500
+Avg:  37.522
+Sum: 337.700
+  5|Seattle Seahawks         | 18|  65.3%|  30.9%
+  6|Philadelphia Eagles      |  9|  68.0%|  36.3%
+  7|Washington Commanders    | 13|  66.7%|  33.7%
+  8|New York Jets            | 10|  68.3%|  36.9%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|Detroit Lions            |  4|  70.3%|  40.9%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 12
+Min:  25.500
+Avg:  37.478
+Sum: 337.300
+  5|Washington Commanders    | 13|  63.2%|  26.7%
+  6|Philadelphia Eagles      |  9|  68.0%|  36.3%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|Pittsburgh Steelers      | 15|  66.3%|  32.9%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|Detroit Lions            |  4|  70.3%|  40.9%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 13
+Min:  25.500
+Avg:  37.444
+Sum: 337.000
+  5|Seattle Seahawks         | 18|  65.3%|  30.9%
+  6|Green Bay Packers        |  6|  64.4%|  29.1%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|Detroit Lions            |  4|  72.9%|  46.0%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|New Orleans Saints       |  7|  65.1%|  30.5%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 14
+Min:  25.500
+Avg:  37.422
+Sum: 336.800
+  5|Washington Commanders    | 13|  63.2%|  26.7%
+  6|Houston Texans           | 12|  66.4%|  33.1%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|Detroit Lions            |  4|  72.9%|  46.0%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|New Orleans Saints       |  7|  65.1%|  30.5%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 15
+Min:  25.500
+Avg:  37.378
+Sum: 336.400
+  5|Seattle Seahawks         | 18|  65.3%|  30.9%
+  6|Philadelphia Eagles      |  9|  68.0%|  36.3%
+  7|Washington Commanders    | 13|  66.7%|  33.7%
+  8|Detroit Lions            |  4|  72.9%|  46.0%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|New Orleans Saints       |  7|  65.1%|  30.5%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 16
+Min:  25.500
+Avg:  37.256
+Sum: 335.300
+  5|Seattle Seahawks         | 18|  65.3%|  30.9%
+  6|Cincinnati Bengals       | 11|  62.9%|  26.1%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|New York Jets            | 10|  68.3%|  36.9%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|Detroit Lions            |  4|  70.3%|  40.9%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 17
+Min:  25.500
+Avg:  37.233
+Sum: 335.100
+  5|Seattle Seahawks         | 18|  65.3%|  30.9%
+  6|Philadelphia Eagles      |  9|  68.0%|  36.3%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|New York Jets            | 10|  68.3%|  36.9%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|New Orleans Saints       |  7|  65.1%|  30.5%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 18
+Min:  25.500
+Avg:  37.167
+Sum: 334.500
+  5|Seattle Seahawks         | 18|  65.3%|  30.9%
+  6|Houston Texans           | 12|  66.4%|  33.1%
+  7|Washington Commanders    | 13|  66.7%|  33.7%
+  8|New York Jets            | 10|  68.3%|  36.9%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|Detroit Lions            |  4|  70.3%|  40.9%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 19
+Min:  25.500
+Avg:  37.144
+Sum: 334.300
+  5|Seattle Seahawks         | 18|  65.3%|  30.9%
+  6|Green Bay Packers        |  6|  64.4%|  29.1%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|Pittsburgh Steelers      | 15|  66.3%|  32.9%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|Detroit Lions            |  4|  70.3%|  40.9%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 20
+Min:  25.500
+Avg:  37.122
+Sum: 334.100
+  5|Washington Commanders    | 13|  63.2%|  26.7%
+  6|Houston Texans           | 12|  66.4%|  33.1%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|Pittsburgh Steelers      | 15|  66.3%|  32.9%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|Detroit Lions            |  4|  70.3%|  40.9%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 21
+Min:  25.500
+Avg:  37.122
+Sum: 334.100
+  5|Washington Commanders    | 13|  63.2%|  26.7%
+  6|Green Bay Packers        |  6|  64.4%|  29.1%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|New York Jets            | 10|  68.3%|  36.9%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|Detroit Lions            |  4|  70.3%|  40.9%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 22
+Min:  25.500
+Avg:  37.111
+Sum: 334.000
+  5|Seattle Seahawks         | 18|  65.3%|  30.9%
+  6|Cincinnati Bengals       | 11|  62.9%|  26.1%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|Detroit Lions            |  4|  72.9%|  46.0%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|New Orleans Saints       |  7|  65.1%|  30.5%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 23
+Min:  25.500
+Avg:  37.078
+Sum: 333.700
+  5|Seattle Seahawks         | 18|  65.3%|  30.9%
+  6|Philadelphia Eagles      |  9|  68.0%|  36.3%
+  7|Washington Commanders    | 13|  66.7%|  33.7%
+  8|Pittsburgh Steelers      | 15|  66.3%|  32.9%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|Detroit Lions            |  4|  70.3%|  40.9%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 24
+Min:  25.500
+Avg:  37.022
+Sum: 333.200
+  5|Seattle Seahawks         | 18|  65.3%|  30.9%
+  6|Houston Texans           | 12|  66.4%|  33.1%
+  7|Washington Commanders    | 13|  66.7%|  33.7%
+  8|Detroit Lions            |  4|  72.9%|  46.0%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|New Orleans Saints       |  7|  65.1%|  30.5%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
+
+# 25
+Min:  25.500
+Avg:  36.978
+Sum: 332.800
+  5|Washington Commanders    | 13|  63.2%|  26.7%
+  6|Green Bay Packers        |  6|  64.4%|  29.1%
+  7|Indianapolis Colts       | 23|  70.6%|  41.5%
+  8|Detroit Lions            |  4|  72.9%|  46.0%
+  9|Buffalo Bills            |  5|  77.1%|  54.4%
+ 10|Los Angeles Rams         | 19|  66.4%|  33.1%
+ 11|New Orleans Saints       |  7|  65.1%|  30.5%
+ 12|Baltimore Ravens         |  2|  62.6%|  25.5%
+ 13|Kansas City Chiefs       |  3|  72.9%|  46.0%
