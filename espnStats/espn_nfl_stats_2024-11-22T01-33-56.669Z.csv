@@ -1,0 +1,273 @@
+Completed,Week,Day of Week,Projected Winner,Projected Winner's Rank,Projected Winner's Percentage,Projected Winner's Percentage Difference,Rank Difference,Away Team,Away Percentage,Home Team,Home Percentage,Game URL
+true,1,Thursday,Kansas City Chiefs,4,,,2,Baltimore Ravens,NaN,Kansas City Chiefs,NaN,https://www.espn.com/nfl/game/_/gameId/401671789/ravens-chiefs
+true,1,Friday,Philadelphia Eagles,6,,,1,Green Bay Packers,NaN,Philadelphia Eagles,NaN,https://www.espn.com/nfl/game/_/gameId/401671805/packers-eagles
+true,1,Sunday,Atlanta Falcons,19,,,10,Pittsburgh Steelers,NaN,Atlanta Falcons,NaN,https://www.espn.com/nfl/game/_/gameId/401671744/steelers-falcons
+true,1,Sunday,Buffalo Bills,3,,,9,Arizona Cardinals,NaN,Buffalo Bills,NaN,https://www.espn.com/nfl/game/_/gameId/401671617/cardinals-bills
+true,1,Sunday,Chicago Bears,24,,,4,Tennessee Titans,NaN,Chicago Bears,NaN,https://www.espn.com/nfl/game/_/gameId/401671719/titans-bears
+true,1,Sunday,Cincinnati Bengals,15,,,12,New England Patriots,NaN,Cincinnati Bengals,NaN,https://www.espn.com/nfl/game/_/gameId/401671628/patriots-bengals
+true,1,Sunday,Indianapolis Colts,25,,,15,Houston Texans,NaN,Indianapolis Colts,NaN,https://www.espn.com/nfl/game/_/gameId/401671861/texans-colts
+true,1,Sunday,Miami Dolphins,18,,,11,Jacksonville Jaguars,NaN,Miami Dolphins,NaN,https://www.espn.com/nfl/game/_/gameId/401671849/jaguars-dolphins
+true,1,Sunday,New Orleans Saints,20,,,11,Carolina Panthers,NaN,New Orleans Saints,NaN,https://www.espn.com/nfl/game/_/gameId/401671734/panthers-saints
+true,1,Sunday,New York Giants,30,,,22,Minnesota Vikings,NaN,New York Giants,NaN,https://www.espn.com/nfl/game/_/gameId/401671712/vikings-giants
+true,1,Sunday,Los Angeles Chargers,14,,,12,Las Vegas Raiders,NaN,Los Angeles Chargers,NaN,https://www.espn.com/nfl/game/_/gameId/401671659/raiders-chargers
+true,1,Sunday,Seattle Seahawks,21,,,2,Denver Broncos,NaN,Seattle Seahawks,NaN,https://www.espn.com/nfl/game/_/gameId/401671664/broncos-seahawks
+true,1,Sunday,Cleveland Browns,22,,,10,Dallas Cowboys,NaN,Cleveland Browns,NaN,https://www.espn.com/nfl/game/_/gameId/401671761/cowboys-browns
+true,1,Sunday,Tampa Bay Buccaneers,11,,,2,Washington Commanders,NaN,Tampa Bay Buccaneers,NaN,https://www.espn.com/nfl/game/_/gameId/401671770/commanders-buccaneers
+true,1,Sunday,Detroit Lions,1,,,15,Los Angeles Rams,NaN,Detroit Lions,NaN,https://www.espn.com/nfl/game/_/gameId/401671792/rams-lions
+true,1,Monday,San Francisco 49ers,7,,,10,New York Jets,NaN,San Francisco 49ers,NaN,https://www.espn.com/nfl/game/_/gameId/401671696/jets-49ers
+true,2,Thursday,Miami Dolphins,18,,,15,Buffalo Bills,NaN,Miami Dolphins,NaN,https://www.espn.com/nfl/game/_/gameId/401671807/bills-dolphins
+true,2,Sunday,Dallas Cowboys,32,,,12,New Orleans Saints,NaN,Dallas Cowboys,NaN,https://www.espn.com/nfl/game/_/gameId/401671709/saints-cowboys
+true,2,Sunday,Detroit Lions,1,,,10,Tampa Bay Buccaneers,NaN,Detroit Lions,NaN,https://www.espn.com/nfl/game/_/gameId/401671721/buccaneers-lions
+true,2,Sunday,Green Bay Packers,5,,,20,Indianapolis Colts,NaN,Green Bay Packers,NaN,https://www.espn.com/nfl/game/_/gameId/401671723/colts-packers
+true,2,Sunday,Tennessee Titans,28,,,11,New York Jets,NaN,Tennessee Titans,NaN,https://www.espn.com/nfl/game/_/gameId/401671636/jets-titans
+true,2,Sunday,Minnesota Vikings,8,,,1,San Francisco 49ers,NaN,Minnesota Vikings,NaN,https://www.espn.com/nfl/game/_/gameId/401671645/49ers-vikings
+true,2,Sunday,New England Patriots,27,,,6,Seattle Seahawks,NaN,New England Patriots,NaN,https://www.espn.com/nfl/game/_/gameId/401671702/seahawks-patriots
+true,2,Sunday,Washington Commanders,13,,,17,New York Giants,NaN,Washington Commanders,NaN,https://www.espn.com/nfl/game/_/gameId/401671716/giants-commanders
+true,2,Sunday,Carolina Panthers,31,,,17,Los Angeles Chargers,NaN,Carolina Panthers,NaN,https://www.espn.com/nfl/game/_/gameId/401671652/chargers-panthers
+true,2,Sunday,Jacksonville Jaguars,29,,,7,Cleveland Browns,NaN,Jacksonville Jaguars,NaN,https://www.espn.com/nfl/game/_/gameId/401671635/browns-jaguars
+true,2,Sunday,Baltimore Ravens,2,,,24,Las Vegas Raiders,NaN,Baltimore Ravens,NaN,https://www.espn.com/nfl/game/_/gameId/401671624/raiders-ravens
+true,2,Sunday,Arizona Cardinals,12,,,4,Los Angeles Rams,NaN,Arizona Cardinals,NaN,https://www.espn.com/nfl/game/_/gameId/401671754/rams-cardinals
+true,2,Sunday,Denver Broncos,23,,,14,Pittsburgh Steelers,NaN,Denver Broncos,NaN,https://www.espn.com/nfl/game/_/gameId/401671668/steelers-broncos
+true,2,Sunday,Kansas City Chiefs,4,,,11,Cincinnati Bengals,NaN,Kansas City Chiefs,NaN,https://www.espn.com/nfl/game/_/gameId/401671670/bengals-chiefs
+true,2,Sunday,Houston Texans,10,,,14,Chicago Bears,NaN,Houston Texans,NaN,https://www.espn.com/nfl/game/_/gameId/401671786/bears-texans
+true,2,Monday,Philadelphia Eagles,6,,,13,Atlanta Falcons,NaN,Philadelphia Eagles,NaN,https://www.espn.com/nfl/game/_/gameId/401671691/falcons-eagles
+true,3,Thursday,New York Jets,17,,,10,New England Patriots,NaN,New York Jets,NaN,https://www.espn.com/nfl/game/_/gameId/401671808/patriots-jets
+true,3,Sunday,Cleveland Browns,22,,,8,New York Giants,NaN,Cleveland Browns,NaN,https://www.espn.com/nfl/game/_/gameId/401671855/giants-browns
+true,3,Sunday,Tennessee Titans,28,,,23,Green Bay Packers,NaN,Tennessee Titans,NaN,https://www.espn.com/nfl/game/_/gameId/401671823/packers-titans
+true,3,Sunday,Indianapolis Colts,25,,,1,Chicago Bears,NaN,Indianapolis Colts,NaN,https://www.espn.com/nfl/game/_/gameId/401671865/bears-colts
+true,3,Sunday,Minnesota Vikings,8,,,2,Houston Texans,NaN,Minnesota Vikings,NaN,https://www.espn.com/nfl/game/_/gameId/401671646/texans-vikings
+true,3,Sunday,New Orleans Saints,20,,,14,Philadelphia Eagles,NaN,New Orleans Saints,NaN,https://www.espn.com/nfl/game/_/gameId/401671736/eagles-saints
+true,3,Sunday,Pittsburgh Steelers,9,,,5,Los Angeles Chargers,NaN,Pittsburgh Steelers,NaN,https://www.espn.com/nfl/game/_/gameId/401671632/chargers-steelers
+true,3,Sunday,Tampa Bay Buccaneers,11,,,12,Denver Broncos,NaN,Tampa Bay Buccaneers,NaN,https://www.espn.com/nfl/game/_/gameId/401671741/broncos-buccaneers
+true,3,Sunday,Las Vegas Raiders,26,,,5,Carolina Panthers,NaN,Las Vegas Raiders,NaN,https://www.espn.com/nfl/game/_/gameId/401671658/panthers-raiders
+true,3,Sunday,Seattle Seahawks,21,,,3,Miami Dolphins,NaN,Seattle Seahawks,NaN,https://www.espn.com/nfl/game/_/gameId/401671662/dolphins-seahawks
+true,3,Sunday,Dallas Cowboys,32,,,30,Baltimore Ravens,NaN,Dallas Cowboys,NaN,https://www.espn.com/nfl/game/_/gameId/401671763/ravens-cowboys
+true,3,Sunday,Los Angeles Rams,16,,,9,San Francisco 49ers,NaN,Los Angeles Rams,NaN,https://www.espn.com/nfl/game/_/gameId/401671772/49ers-rams
+true,3,Sunday,Arizona Cardinals,12,,,11,Detroit Lions,NaN,Arizona Cardinals,NaN,https://www.espn.com/nfl/game/_/gameId/401671771/lions-cardinals
+true,3,Sunday,Atlanta Falcons,19,,,15,Kansas City Chiefs,NaN,Atlanta Falcons,NaN,https://www.espn.com/nfl/game/_/gameId/401671793/chiefs-falcons
+true,3,Monday,Buffalo Bills,3,,,26,Jacksonville Jaguars,NaN,Buffalo Bills,NaN,https://www.espn.com/nfl/game/_/gameId/401671682/jaguars-bills
+true,3,Monday,Cincinnati Bengals,15,,,2,Washington Commanders,NaN,Cincinnati Bengals,NaN,https://www.espn.com/nfl/game/_/gameId/401671490/commanders-bengals
+true,4,Thursday,New York Giants,30,,,2,Dallas Cowboys,NaN,New York Giants,NaN,https://www.espn.com/nfl/game/_/gameId/401671812/cowboys-giants
+true,4,Sunday,Atlanta Falcons,19,,,1,New Orleans Saints,NaN,Atlanta Falcons,NaN,https://www.espn.com/nfl/game/_/gameId/401671727/saints-falcons
+true,4,Sunday,Chicago Bears,24,,,8,Los Angeles Rams,NaN,Chicago Bears,NaN,https://www.espn.com/nfl/game/_/gameId/401671871/rams-bears
+true,4,Sunday,Green Bay Packers,5,,,3,Minnesota Vikings,NaN,Green Bay Packers,NaN,https://www.espn.com/nfl/game/_/gameId/401671643/vikings-packers
+true,4,Sunday,Indianapolis Colts,25,,,16,Pittsburgh Steelers,NaN,Indianapolis Colts,NaN,https://www.espn.com/nfl/game/_/gameId/401671867/steelers-colts
+true,4,Sunday,New York Jets,17,,,6,Denver Broncos,NaN,New York Jets,NaN,https://www.espn.com/nfl/game/_/gameId/401671622/broncos-jets
+true,4,Sunday,Tampa Bay Buccaneers,11,,,5,Philadelphia Eagles,NaN,Tampa Bay Buccaneers,NaN,https://www.espn.com/nfl/game/_/gameId/401671740/eagles-buccaneers
+true,4,Sunday,Carolina Panthers,31,,,16,Cincinnati Bengals,NaN,Carolina Panthers,NaN,https://www.espn.com/nfl/game/_/gameId/401671745/bengals-panthers
+true,4,Sunday,Houston Texans,10,,,19,Jacksonville Jaguars,NaN,Houston Texans,NaN,https://www.espn.com/nfl/game/_/gameId/401671857/jaguars-texans
+true,4,Sunday,Arizona Cardinals,12,,,1,Washington Commanders,NaN,Arizona Cardinals,NaN,https://www.espn.com/nfl/game/_/gameId/401671755/commanders-cardinals
+true,4,Sunday,San Francisco 49ers,7,,,20,New England Patriots,NaN,San Francisco 49ers,NaN,https://www.espn.com/nfl/game/_/gameId/401671758/patriots-49ers
+true,4,Sunday,Las Vegas Raiders,26,,,4,Cleveland Browns,NaN,Las Vegas Raiders,NaN,https://www.espn.com/nfl/game/_/gameId/401671672/browns-raiders
+true,4,Sunday,Los Angeles Chargers,14,,,10,Kansas City Chiefs,NaN,Los Angeles Chargers,NaN,https://www.espn.com/nfl/game/_/gameId/401671674/chiefs-chargers
+true,4,Sunday,Baltimore Ravens,2,,,1,Buffalo Bills,NaN,Baltimore Ravens,NaN,https://www.espn.com/nfl/game/_/gameId/401671783/bills-ravens
+true,4,Monday,Miami Dolphins,18,,,10,Tennessee Titans,NaN,Miami Dolphins,NaN,https://www.espn.com/nfl/game/_/gameId/401671683/titans-dolphins
+true,4,Monday,Detroit Lions,1,,,20,Seattle Seahawks,NaN,Detroit Lions,NaN,https://www.espn.com/nfl/game/_/gameId/401671491/seahawks-lions
+true,5,Thursday,Atlanta Falcons,19,,,8,Tampa Bay Buccaneers,NaN,Atlanta Falcons,NaN,https://www.espn.com/nfl/game/_/gameId/401671815/buccaneers-falcons
+true,5,Sunday,Minnesota Vikings,8,,,9,New York Jets,NaN,Minnesota Vikings,NaN,https://www.espn.com/nfl/game/_/gameId/401671804/jets-vikings
+true,5,Sunday,Chicago Bears,24,,,7,Carolina Panthers,NaN,Chicago Bears,NaN,https://www.espn.com/nfl/game/_/gameId/401671872/panthers-bears
+true,5,Sunday,Cincinnati Bengals,15,,,13,Baltimore Ravens,NaN,Cincinnati Bengals,NaN,https://www.espn.com/nfl/game/_/gameId/401671626/ravens-bengals
+true,5,Sunday,New England Patriots,27,,,9,Miami Dolphins,NaN,New England Patriots,NaN,https://www.espn.com/nfl/game/_/gameId/401671700/dolphins-patriots
+true,5,Sunday,Washington Commanders,13,,,9,Cleveland Browns,NaN,Washington Commanders,NaN,https://www.espn.com/nfl/game/_/gameId/401671718/browns-commanders
+true,5,Sunday,Jacksonville Jaguars,29,,,4,Indianapolis Colts,NaN,Jacksonville Jaguars,NaN,https://www.espn.com/nfl/game/_/gameId/401671633/colts-jaguars
+true,5,Sunday,Houston Texans,10,,,7,Buffalo Bills,NaN,Houston Texans,NaN,https://www.espn.com/nfl/game/_/gameId/401671859/bills-texans
+true,5,Sunday,Denver Broncos,23,,,3,Las Vegas Raiders,NaN,Denver Broncos,NaN,https://www.espn.com/nfl/game/_/gameId/401671747/raiders-broncos
+true,5,Sunday,San Francisco 49ers,7,,,5,Arizona Cardinals,NaN,San Francisco 49ers,NaN,https://www.espn.com/nfl/game/_/gameId/401671756/cardinals-49ers
+true,5,Sunday,Los Angeles Rams,16,,,11,Green Bay Packers,NaN,Los Angeles Rams,NaN,https://www.espn.com/nfl/game/_/gameId/401671679/packers-rams
+true,5,Sunday,Seattle Seahawks,21,,,9,New York Giants,NaN,Seattle Seahawks,NaN,https://www.espn.com/nfl/game/_/gameId/401671680/giants-seahawks
+true,5,Sunday,Pittsburgh Steelers,9,,,23,Dallas Cowboys,NaN,Pittsburgh Steelers,NaN,https://www.espn.com/nfl/game/_/gameId/401671784/cowboys-steelers
+true,5,Monday,Kansas City Chiefs,4,,,16,New Orleans Saints,NaN,Kansas City Chiefs,NaN,https://www.espn.com/nfl/game/_/gameId/401671687/saints-chiefs
+true,6,Thursday,Seattle Seahawks,21,,,14,San Francisco 49ers,NaN,Seattle Seahawks,NaN,https://www.espn.com/nfl/game/_/gameId/401671819/49ers-seahawks
+true,6,Sunday,Chicago Bears,24,,,5,Jacksonville Jaguars,NaN,Chicago Bears,NaN,https://www.espn.com/nfl/game/_/gameId/401671802/jaguars-bears
+true,6,Sunday,Green Bay Packers,5,,,7,Arizona Cardinals,NaN,Green Bay Packers,NaN,https://www.espn.com/nfl/game/_/gameId/401671722/cardinals-packers
+true,6,Sunday,Tennessee Titans,28,,,3,Indianapolis Colts,NaN,Tennessee Titans,NaN,https://www.espn.com/nfl/game/_/gameId/401671820/colts-titans
+true,6,Sunday,New England Patriots,27,,,17,Houston Texans,NaN,New England Patriots,NaN,https://www.espn.com/nfl/game/_/gameId/401671619/texans-patriots
+true,6,Sunday,New Orleans Saints,20,,,9,Tampa Bay Buccaneers,NaN,New Orleans Saints,NaN,https://www.espn.com/nfl/game/_/gameId/401671735/buccaneers-saints
+true,6,Sunday,Philadelphia Eagles,6,,,16,Cleveland Browns,NaN,Philadelphia Eagles,NaN,https://www.espn.com/nfl/game/_/gameId/401671714/browns-eagles
+true,6,Sunday,Baltimore Ravens,2,,,11,Washington Commanders,NaN,Baltimore Ravens,NaN,https://www.espn.com/nfl/game/_/gameId/401671625/commanders-ravens
+true,6,Sunday,Denver Broncos,23,,,9,Los Angeles Chargers,NaN,Denver Broncos,NaN,https://www.espn.com/nfl/game/_/gameId/401671655/chargers-broncos
+true,6,Sunday,Las Vegas Raiders,26,,,17,Pittsburgh Steelers,NaN,Las Vegas Raiders,NaN,https://www.espn.com/nfl/game/_/gameId/401671657/steelers-raiders
+true,6,Sunday,Dallas Cowboys,32,,,31,Detroit Lions,NaN,Dallas Cowboys,NaN,https://www.espn.com/nfl/game/_/gameId/401671764/lions-cowboys
+true,6,Sunday,Carolina Panthers,31,,,12,Atlanta Falcons,NaN,Carolina Panthers,NaN,https://www.espn.com/nfl/game/_/gameId/401671769/falcons-panthers
+true,6,Sunday,New York Giants,30,,,15,Cincinnati Bengals,NaN,New York Giants,NaN,https://www.espn.com/nfl/game/_/gameId/401671791/bengals-giants
+true,6,Monday,New York Jets,17,,,14,Buffalo Bills,NaN,New York Jets,NaN,https://www.espn.com/nfl/game/_/gameId/401671684/bills-jets
+true,7,Thursday,New Orleans Saints,20,,,3,Denver Broncos,NaN,New Orleans Saints,NaN,https://www.espn.com/nfl/game/_/gameId/401671816/broncos-saints
+true,7,Sunday,Jacksonville Jaguars,29,,,2,New England Patriots,NaN,Jacksonville Jaguars,NaN,https://www.espn.com/nfl/game/_/gameId/401671801/patriots-jaguars
+true,7,Sunday,Atlanta Falcons,19,,,2,Seattle Seahawks,NaN,Atlanta Falcons,NaN,https://www.espn.com/nfl/game/_/gameId/401671730/seahawks-falcons
+true,7,Sunday,Buffalo Bills,3,,,25,Tennessee Titans,NaN,Buffalo Bills,NaN,https://www.espn.com/nfl/game/_/gameId/401671616/titans-bills
+true,7,Sunday,Cleveland Browns,22,,,7,Cincinnati Bengals,NaN,Cleveland Browns,NaN,https://www.espn.com/nfl/game/_/gameId/401671853/bengals-browns
+true,7,Sunday,Green Bay Packers,5,,,5,Houston Texans,NaN,Green Bay Packers,NaN,https://www.espn.com/nfl/game/_/gameId/401671644/texans-packers
+true,7,Sunday,Indianapolis Colts,25,,,7,Miami Dolphins,NaN,Indianapolis Colts,NaN,https://www.espn.com/nfl/game/_/gameId/401671864/dolphins-colts
+true,7,Sunday,Minnesota Vikings,8,,,7,Detroit Lions,NaN,Minnesota Vikings,NaN,https://www.espn.com/nfl/game/_/gameId/401671724/lions-vikings
+true,7,Sunday,New York Giants,30,,,24,Philadelphia Eagles,NaN,New York Giants,NaN,https://www.espn.com/nfl/game/_/gameId/401671710/eagles-giants
+true,7,Sunday,Los Angeles Rams,16,,,10,Las Vegas Raiders,NaN,Los Angeles Rams,NaN,https://www.espn.com/nfl/game/_/gameId/401671663/raiders-rams
+true,7,Sunday,Washington Commanders,13,,,18,Carolina Panthers,NaN,Washington Commanders,NaN,https://www.espn.com/nfl/game/_/gameId/401671640/panthers-commanders
+true,7,Sunday,San Francisco 49ers,7,,,3,Kansas City Chiefs,NaN,San Francisco 49ers,NaN,https://www.espn.com/nfl/game/_/gameId/401671777/chiefs-49ers
+true,7,Sunday,Pittsburgh Steelers,9,,,8,New York Jets,NaN,Pittsburgh Steelers,NaN,https://www.espn.com/nfl/game/_/gameId/401671785/jets-steelers
+true,7,Monday,Tampa Bay Buccaneers,11,,,9,Baltimore Ravens,NaN,Tampa Bay Buccaneers,NaN,https://www.espn.com/nfl/game/_/gameId/401671695/ravens-buccaneers
+true,7,Monday,Arizona Cardinals,12,,,2,Los Angeles Chargers,NaN,Arizona Cardinals,NaN,https://www.espn.com/nfl/game/_/gameId/401671699/chargers-cardinals
+true,8,Thursday,Los Angeles Rams,16,,,8,Minnesota Vikings,NaN,Los Angeles Rams,NaN,https://www.espn.com/nfl/game/_/gameId/401671817/vikings-rams
+true,8,Sunday,Cincinnati Bengals,15,,,9,Philadelphia Eagles,NaN,Cincinnati Bengals,NaN,https://www.espn.com/nfl/game/_/gameId/401671667/eagles-bengals
+true,8,Sunday,Cleveland Browns,22,,,20,Baltimore Ravens,NaN,Cleveland Browns,NaN,https://www.espn.com/nfl/game/_/gameId/401671852/ravens-browns
+true,8,Sunday,Detroit Lions,1,,,27,Tennessee Titans,NaN,Detroit Lions,NaN,https://www.espn.com/nfl/game/_/gameId/401671720/titans-lions
+true,8,Sunday,Miami Dolphins,18,,,6,Arizona Cardinals,NaN,Miami Dolphins,NaN,https://www.espn.com/nfl/game/_/gameId/401671850/cardinals-dolphins
+true,8,Sunday,New England Patriots,27,,,10,New York Jets,NaN,New England Patriots,NaN,https://www.espn.com/nfl/game/_/gameId/401671618/jets-patriots
+true,8,Sunday,Tampa Bay Buccaneers,11,,,8,Atlanta Falcons,NaN,Tampa Bay Buccaneers,NaN,https://www.espn.com/nfl/game/_/gameId/401671739/falcons-buccaneers
+true,8,Sunday,Jacksonville Jaguars,29,,,24,Green Bay Packers,NaN,Jacksonville Jaguars,NaN,https://www.espn.com/nfl/game/_/gameId/401671707/packers-jaguars
+true,8,Sunday,Houston Texans,10,,,15,Indianapolis Colts,NaN,Houston Texans,NaN,https://www.espn.com/nfl/game/_/gameId/401671856/colts-texans
+true,8,Sunday,Los Angeles Chargers,14,,,6,New Orleans Saints,NaN,Los Angeles Chargers,NaN,https://www.espn.com/nfl/game/_/gameId/401671750/saints-chargers
+true,8,Sunday,Seattle Seahawks,21,,,18,Buffalo Bills,NaN,Seattle Seahawks,NaN,https://www.espn.com/nfl/game/_/gameId/401671760/bills-seahawks
+true,8,Sunday,Denver Broncos,23,,,8,Carolina Panthers,NaN,Denver Broncos,NaN,https://www.espn.com/nfl/game/_/gameId/401671600/panthers-broncos
+true,8,Sunday,Las Vegas Raiders,26,,,22,Kansas City Chiefs,NaN,Las Vegas Raiders,NaN,https://www.espn.com/nfl/game/_/gameId/401671671/chiefs-raiders
+true,8,Sunday,Washington Commanders,13,,,11,Chicago Bears,NaN,Washington Commanders,NaN,https://www.espn.com/nfl/game/_/gameId/401671599/bears-commanders
+true,8,Sunday,San Francisco 49ers,7,,,25,Dallas Cowboys,NaN,San Francisco 49ers,NaN,https://www.espn.com/nfl/game/_/gameId/401671795/cowboys-49ers
+true,8,Monday,Pittsburgh Steelers,9,,,21,New York Giants,NaN,Pittsburgh Steelers,NaN,https://www.espn.com/nfl/game/_/gameId/401671685/giants-steelers
+true,9,Thursday,New York Jets,17,,,7,Houston Texans,NaN,New York Jets,NaN,https://www.espn.com/nfl/game/_/gameId/401671809/texans-jets
+true,9,Sunday,Atlanta Falcons,19,,,13,Dallas Cowboys,NaN,Atlanta Falcons,NaN,https://www.espn.com/nfl/game/_/gameId/401671728/cowboys-falcons
+true,9,Sunday,Buffalo Bills,3,,,15,Miami Dolphins,NaN,Buffalo Bills,NaN,https://www.espn.com/nfl/game/_/gameId/401671493/dolphins-bills
+true,9,Sunday,Cincinnati Bengals,15,,,11,Las Vegas Raiders,NaN,Cincinnati Bengals,NaN,https://www.espn.com/nfl/game/_/gameId/401671704/raiders-bengals
+true,9,Sunday,Cleveland Browns,22,,,8,Los Angeles Chargers,NaN,Cleveland Browns,NaN,https://www.espn.com/nfl/game/_/gameId/401671629/chargers-browns
+true,9,Sunday,Tennessee Titans,28,,,1,New England Patriots,NaN,Tennessee Titans,NaN,https://www.espn.com/nfl/game/_/gameId/401671822/patriots-titans
+true,9,Sunday,New York Giants,30,,,17,Washington Commanders,NaN,New York Giants,NaN,https://www.espn.com/nfl/game/_/gameId/401671711/commanders-giants
+true,9,Sunday,Carolina Panthers,31,,,11,New Orleans Saints,NaN,Carolina Panthers,NaN,https://www.espn.com/nfl/game/_/gameId/401671650/saints-panthers
+true,9,Sunday,Baltimore Ravens,2,,,21,Denver Broncos,NaN,Baltimore Ravens,NaN,https://www.espn.com/nfl/game/_/gameId/401671623/broncos-ravens
+true,9,Sunday,Philadelphia Eagles,6,,,23,Jacksonville Jaguars,NaN,Philadelphia Eagles,NaN,https://www.espn.com/nfl/game/_/gameId/401671797/jaguars-eagles
+true,9,Sunday,Arizona Cardinals,12,,,12,Chicago Bears,NaN,Arizona Cardinals,NaN,https://www.espn.com/nfl/game/_/gameId/401671661/bears-cardinals
+true,9,Sunday,Green Bay Packers,5,,,4,Detroit Lions,NaN,Green Bay Packers,NaN,https://www.espn.com/nfl/game/_/gameId/401671767/lions-packers
+true,9,Sunday,Seattle Seahawks,21,,,5,Los Angeles Rams,NaN,Seattle Seahawks,NaN,https://www.espn.com/nfl/game/_/gameId/401671776/rams-seahawks
+true,9,Sunday,Minnesota Vikings,8,,,17,Indianapolis Colts,NaN,Minnesota Vikings,NaN,https://www.espn.com/nfl/game/_/gameId/401671647/colts-vikings
+true,9,Monday,Kansas City Chiefs,4,,,7,Tampa Bay Buccaneers,NaN,Kansas City Chiefs,NaN,https://www.espn.com/nfl/game/_/gameId/401671688/buccaneers-chiefs
+true,10,Thursday,Baltimore Ravens,2,,,13,Cincinnati Bengals,NaN,Baltimore Ravens,NaN,https://www.espn.com/nfl/game/_/gameId/401671810/bengals-ravens
+true,10,Sunday,Carolina Panthers,31,,,1,New York Giants,NaN,Carolina Panthers,NaN,https://www.espn.com/nfl/game/_/gameId/401671803/giants-panthers
+true,10,Sunday,Chicago Bears,24,,,3,New England Patriots,NaN,Chicago Bears,NaN,https://www.espn.com/nfl/game/_/gameId/401671873/patriots-bears
+true,10,Sunday,Indianapolis Colts,25,,,22,Buffalo Bills,NaN,Indianapolis Colts,NaN,https://www.espn.com/nfl/game/_/gameId/401671863/bills-colts
+true,10,Sunday,Kansas City Chiefs,4,,,19,Denver Broncos,NaN,Kansas City Chiefs,NaN,https://www.espn.com/nfl/game/_/gameId/401671637/broncos-chiefs
+true,10,Sunday,New Orleans Saints,20,,,1,Atlanta Falcons,NaN,New Orleans Saints,NaN,https://www.espn.com/nfl/game/_/gameId/401671733/falcons-saints
+true,10,Sunday,Tampa Bay Buccaneers,11,,,4,San Francisco 49ers,NaN,Tampa Bay Buccaneers,NaN,https://www.espn.com/nfl/game/_/gameId/401671742/49ers-buccaneers
+true,10,Sunday,Washington Commanders,13,,,4,Pittsburgh Steelers,NaN,Washington Commanders,NaN,https://www.espn.com/nfl/game/_/gameId/401671641/steelers-commanders
+true,10,Sunday,Jacksonville Jaguars,29,,,21,Minnesota Vikings,NaN,Jacksonville Jaguars,NaN,https://www.espn.com/nfl/game/_/gameId/401671708/vikings-jaguars
+true,10,Sunday,Los Angeles Chargers,14,,,14,Tennessee Titans,NaN,Los Angeles Chargers,NaN,https://www.espn.com/nfl/game/_/gameId/401671751/titans-chargers
+true,10,Sunday,Dallas Cowboys,32,,,26,Philadelphia Eagles,NaN,Dallas Cowboys,NaN,https://www.espn.com/nfl/game/_/gameId/401671676/eagles-cowboys
+true,10,Sunday,Arizona Cardinals,12,,,5,New York Jets,NaN,Arizona Cardinals,NaN,https://www.espn.com/nfl/game/_/gameId/401671678/jets-cardinals
+true,10,Sunday,Houston Texans,10,,,9,Detroit Lions,NaN,Houston Texans,NaN,https://www.espn.com/nfl/game/_/gameId/401671787/lions-texans
+true,10,Monday,Los Angeles Rams,16,,,2,Miami Dolphins,NaN,Los Angeles Rams,NaN,https://www.espn.com/nfl/game/_/gameId/401671693/dolphins-rams
+true,11,Thursday,Philadelphia Eagles,6,,,7,Washington Commanders,NaN,Philadelphia Eagles,NaN,https://www.espn.com/nfl/game/_/gameId/401671813/commanders-eagles
+true,11,Sunday,Chicago Bears,24,,,19,Green Bay Packers,NaN,Chicago Bears,NaN,https://www.espn.com/nfl/game/_/gameId/401671869/packers-bears
+true,11,Sunday,Detroit Lions,1,,,28,Jacksonville Jaguars,NaN,Detroit Lions,NaN,https://www.espn.com/nfl/game/_/gameId/401671642/jaguars-lions
+true,11,Sunday,Tennessee Titans,28,,,20,Minnesota Vikings,NaN,Tennessee Titans,NaN,https://www.espn.com/nfl/game/_/gameId/401671824/vikings-titans
+true,11,Sunday,Miami Dolphins,18,,,8,Las Vegas Raiders,NaN,Miami Dolphins,NaN,https://www.espn.com/nfl/game/_/gameId/401671851/raiders-dolphins
+true,11,Sunday,New England Patriots,27,,,11,Los Angeles Rams,NaN,New England Patriots,NaN,https://www.espn.com/nfl/game/_/gameId/401671701/rams-patriots
+true,11,Sunday,New Orleans Saints,20,,,2,Cleveland Browns,NaN,New Orleans Saints,NaN,https://www.espn.com/nfl/game/_/gameId/401671746/browns-saints
+true,11,Sunday,New York Jets,17,,,8,Indianapolis Colts,NaN,New York Jets,NaN,https://www.espn.com/nfl/game/_/gameId/401671782/colts-jets
+true,11,Sunday,Pittsburgh Steelers,9,,,7,Baltimore Ravens,NaN,Pittsburgh Steelers,NaN,https://www.espn.com/nfl/game/_/gameId/401671630/ravens-steelers
+true,11,Sunday,Denver Broncos,23,,,4,Atlanta Falcons,NaN,Denver Broncos,NaN,https://www.espn.com/nfl/game/_/gameId/401671748/falcons-broncos
+true,11,Sunday,San Francisco 49ers,7,,,14,Seattle Seahawks,NaN,San Francisco 49ers,NaN,https://www.espn.com/nfl/game/_/gameId/401671757/seahawks-49ers
+true,11,Sunday,Buffalo Bills,3,,,1,Kansas City Chiefs,NaN,Buffalo Bills,NaN,https://www.espn.com/nfl/game/_/gameId/401671665/chiefs-bills
+true,11,Sunday,Los Angeles Chargers,14,,,1,Cincinnati Bengals,NaN,Los Angeles Chargers,NaN,https://www.espn.com/nfl/game/_/gameId/401671675/bengals-chargers
+true,11,Monday,Dallas Cowboys,32,,,22,Houston Texans,NaN,Dallas Cowboys,NaN,https://www.espn.com/nfl/game/_/gameId/401671694/texans-cowboys
+true,12,Thursday,Cleveland Browns,22,,,13,Pittsburgh Steelers,NaN,Cleveland Browns,NaN,https://www.espn.com/nfl/game/_/gameId/401671875
+false,12,Sunday,Washington Commanders,13,78.3,56.8,19,Dallas Cowboys,21.5,Washington Commanders,78.3,https://www.espn.com/nfl/game/_/gameId/401671715/cowboys-commanders
+false,12,Sunday,Kansas City Chiefs,4,77,54.2,27,Kansas City Chiefs,77,Carolina Panthers,22.8,https://www.espn.com/nfl/game/_/gameId/401671651/chiefs-panthers
+false,12,Sunday,Detroit Lions,1,73.4,47,24,Detroit Lions,73.4,Indianapolis Colts,26.4,https://www.espn.com/nfl/game/_/gameId/401671866/lions-colts
+false,12,Sunday,Houston Texans,10,71.1,42.4,18,Tennessee Titans,28.7,Houston Texans,71.1,https://www.espn.com/nfl/game/_/gameId/401671858/titans-texans
+false,12,Sunday,Tampa Bay Buccaneers,11,68.9,38,19,Tampa Bay Buccaneers,68.9,New York Giants,30.9,https://www.espn.com/nfl/game/_/gameId/401671638/buccaneers-giants
+false,12,Sunday,Miami Dolphins,18,68,36.3,9,New England Patriots,31.7,Miami Dolphins,68,https://www.espn.com/nfl/game/_/gameId/401671847/patriots-dolphins
+false,12,Monday,Baltimore Ravens,2,60.4,21.1,12,Baltimore Ravens,60.4,Los Angeles Chargers,39.3,https://www.espn.com/nfl/game/_/gameId/401671689/ravens-chargers
+false,12,Sunday,Philadelphia Eagles,6,58.6,17.5,10,Philadelphia Eagles,58.6,Los Angeles Rams,41.1,https://www.espn.com/nfl/game/_/gameId/401671794/eagles-rams
+false,12,Sunday,Minnesota Vikings,8,57,14.4,16,Minnesota Vikings,57,Chicago Bears,42.6,https://www.espn.com/nfl/game/_/gameId/401671870/vikings-bears
+false,12,Sunday,Denver Broncos,23,56.2,12.8,3,Denver Broncos,56.2,Las Vegas Raiders,43.4,https://www.espn.com/nfl/game/_/gameId/401671656/broncos-raiders
+false,12,Sunday,Green Bay Packers,5,54.6,9.6,2,San Francisco 49ers,45,Green Bay Packers,54.6,https://www.espn.com/nfl/game/_/gameId/401671768/49ers-packers
+false,12,Sunday,Arizona Cardinals,12,54.4,9.2,9,Arizona Cardinals,54.4,Seattle Seahawks,45.2,https://www.espn.com/nfl/game/_/gameId/401671775/cardinals-seahawks
+false,13,Friday,Kansas City Chiefs,4,77,54.2,22,Las Vegas Raiders,22.8,Kansas City Chiefs,77,https://www.espn.com/nfl/game/_/gameId/401671806/raiders-chiefs
+false,13,Thursday,Detroit Lions,1,76,52.2,23,Chicago Bears,23.8,Detroit Lions,76,https://www.espn.com/nfl/game/_/gameId/401671492/bears-lions
+false,13,Sunday,Tampa Bay Buccaneers,11,69.4,39,20,Tampa Bay Buccaneers,69.4,Carolina Panthers,30.4,https://www.espn.com/nfl/game/_/gameId/401671752/buccaneers-panthers
+false,13,Sunday,Washington Commanders,13,68.6,37.5,15,Tennessee Titans,31.1,Washington Commanders,68.6,https://www.espn.com/nfl/game/_/gameId/401671743/titans-commanders
+false,13,Sunday,Houston Texans,10,66.7,33.7,19,Houston Texans,66.7,Jacksonville Jaguars,33,https://www.espn.com/nfl/game/_/gameId/401671705/texans-jaguars
+false,13,Thursday,Green Bay Packers,5,65.4,31.1,13,Miami Dolphins,34.3,Green Bay Packers,65.4,https://www.espn.com/nfl/game/_/gameId/401671798/dolphins-packers
+false,13,Sunday,Baltimore Ravens,2,58.7,17.7,4,Philadelphia Eagles,41,Baltimore Ravens,58.7,https://www.espn.com/nfl/game/_/gameId/401671666/eagles-ravens
+false,13,Sunday,Buffalo Bills,3,57.6,15.5,4,San Francisco 49ers,42.1,Buffalo Bills,57.6,https://www.espn.com/nfl/game/_/gameId/401671781/49ers-bills
+false,13,Sunday,Minnesota Vikings,8,57.3,14.9,4,Arizona Cardinals,42.4,Minnesota Vikings,57.3,https://www.espn.com/nfl/game/_/gameId/401671726/cardinals-vikings
+false,13,Sunday,Indianapolis Colts,25,56.2,12.8,2,Indianapolis Colts,56.2,New England Patriots,43.4,https://www.espn.com/nfl/game/_/gameId/401671620/colts-patriots
+false,13,Sunday,New York Jets,17,54.4,9.1,4,Seattle Seahawks,45.3,New York Jets,54.4,https://www.espn.com/nfl/game/_/gameId/401671703/seahawks-jets
+false,13,Monday,Denver Broncos,23,52.4,5.2,1,Cleveland Browns,47.2,Denver Broncos,52.4,https://www.espn.com/nfl/game/_/gameId/401671686/browns-broncos
+false,13,Sunday,Los Angeles Chargers,14,51,2.4,5,Los Angeles Chargers,51,Atlanta Falcons,48.6,https://www.espn.com/nfl/game/_/gameId/401671649/chargers-falcons
+false,13,Thursday,New York Giants,30,50.7,1.8,2,New York Giants,50.7,Dallas Cowboys,48.9,https://www.espn.com/nfl/game/_/gameId/401671779/giants-cowboys
+false,13,Sunday,New Orleans Saints,20,50.6,1.6,4,Los Angeles Rams,49,New Orleans Saints,50.6,https://www.espn.com/nfl/game/_/gameId/401671753/rams-saints
+false,13,Sunday,Cincinnati Bengals,15,49.8,0,6,Pittsburgh Steelers,49.8,Cincinnati Bengals,49.8,https://www.espn.com/nfl/game/_/gameId/401671627/steelers-bengals
+false,14,Sunday,Philadelphia Eagles,6,80.6,61.4,25,Carolina Panthers,19.2,Philadelphia Eagles,80.6,https://www.espn.com/nfl/game/_/gameId/401671713/panthers-eagles
+false,14,Monday,Cincinnati Bengals,15,69.9,40,17,Cincinnati Bengals,69.9,Dallas Cowboys,29.9,https://www.espn.com/nfl/game/_/gameId/401671690/bengals-cowboys
+false,14,Sunday,Tampa Bay Buccaneers,11,68.3,36.8,15,Las Vegas Raiders,31.5,Tampa Bay Buccaneers,68.3,https://www.espn.com/nfl/game/_/gameId/401671654/raiders-buccaneers
+false,14,Sunday,San Francisco 49ers,7,66.8,33.9,17,Chicago Bears,32.9,San Francisco 49ers,66.8,https://www.espn.com/nfl/game/_/gameId/401671774/bears-49ers
+false,14,Sunday,Minnesota Vikings,8,64.6,29.4,11,Atlanta Falcons,35.2,Minnesota Vikings,64.6,https://www.espn.com/nfl/game/_/gameId/401671648/falcons-vikings
+false,14,Sunday,Kansas City Chiefs,4,63.1,26.5,10,Los Angeles Chargers,36.6,Kansas City Chiefs,63.1,https://www.espn.com/nfl/game/_/gameId/401671788/chargers-chiefs
+false,14,Sunday,New Orleans Saints,20,62.8,25.9,10,New Orleans Saints,62.8,New York Giants,36.9,https://www.espn.com/nfl/game/_/gameId/401671601/saints-giants
+false,14,Thursday,Detroit Lions,1,62.5,25.3,4,Green Bay Packers,37.2,Detroit Lions,62.5,https://www.espn.com/nfl/game/_/gameId/401671814/packers-lions
+false,14,Sunday,Buffalo Bills,3,62.2,24.7,13,Buffalo Bills,62.2,Los Angeles Rams,37.5,https://www.espn.com/nfl/game/_/gameId/401671773/bills-rams
+false,14,Sunday,Pittsburgh Steelers,9,61.9,24.1,13,Cleveland Browns,37.8,Pittsburgh Steelers,61.9,https://www.espn.com/nfl/game/_/gameId/401671631/browns-steelers
+false,14,Sunday,Arizona Cardinals,12,59,18.3,9,Seattle Seahawks,40.7,Arizona Cardinals,59,https://www.espn.com/nfl/game/_/gameId/401671660/seahawks-cardinals
+false,14,Sunday,Miami Dolphins,18,52.8,6,1,New York Jets,46.8,Miami Dolphins,52.8,https://www.espn.com/nfl/game/_/gameId/401671848/jets-dolphins
+false,14,Sunday,Jacksonville Jaguars,29,52.4,5.1,1,Jacksonville Jaguars,52.4,Tennessee Titans,47.3,https://www.espn.com/nfl/game/_/gameId/401671821/jaguars-titans
+false,15,Sunday,Baltimore Ravens,2,79,58.2,28,Baltimore Ravens,79,New York Giants,20.8,https://www.espn.com/nfl/game/_/gameId/401671639/ravens-giants
+false,15,Sunday,Arizona Cardinals,12,70.4,41,15,New England Patriots,29.4,Arizona Cardinals,70.4,https://www.espn.com/nfl/game/_/gameId/401671677/patriots-cardinals
+false,15,Monday,Minnesota Vikings,8,64.4,29.1,16,Chicago Bears,35.3,Minnesota Vikings,64.4,https://www.espn.com/nfl/game/_/gameId/401671489/bears-vikings
+false,15,Thursday,San Francisco 49ers,7,63.6,27.5,9,Los Angeles Rams,36.1,San Francisco 49ers,63.6,https://www.espn.com/nfl/game/_/gameId/401671818/rams-49ers
+false,15,Sunday,Kansas City Chiefs,4,63.3,26.9,18,Kansas City Chiefs,63.3,Cleveland Browns,36.4,https://www.espn.com/nfl/game/_/gameId/401671854/chiefs-browns
+false,15,Sunday,Green Bay Packers,5,61.8,23.9,16,Green Bay Packers,61.8,Seattle Seahawks,37.9,https://www.espn.com/nfl/game/_/gameId/401671796/packers-seahawks
+false,15,Sunday,Cincinnati Bengals,15,61.7,23.7,13,Cincinnati Bengals,61.7,Tennessee Titans,38,https://www.espn.com/nfl/game/_/gameId/401671825/bengals-titans
+false,15,Sunday,Philadelphia Eagles,6,59.8,19.9,3,Pittsburgh Steelers,39.9,Philadelphia Eagles,59.8,https://www.espn.com/nfl/game/_/gameId/401671766/steelers-eagles
+false,15,Sunday,Detroit Lions,1,58.8,18,2,Buffalo Bills,40.8,Detroit Lions,58.8,https://www.espn.com/nfl/game/_/gameId/401671681/bills-lions
+false,15,Sunday,Houston Texans,10,58.3,16.9,8,Miami Dolphins,41.4,Houston Texans,58.3,https://www.espn.com/nfl/game/_/gameId/401671860/dolphins-texans
+false,15,Monday,Atlanta Falcons,19,57.9,16.1,7,Atlanta Falcons,57.9,Las Vegas Raiders,41.8,https://www.espn.com/nfl/game/_/gameId/401671697/falcons-raiders
+false,15,Sunday,Carolina Panthers,31,55.4,11.1,1,Dallas Cowboys,44.3,Carolina Panthers,55.4,https://www.espn.com/nfl/game/_/gameId/401671731/cowboys-panthers
+false,15,Sunday,New York Jets,17,54.4,9.2,12,New York Jets,54.4,Jacksonville Jaguars,45.2,https://www.espn.com/nfl/game/_/gameId/401671706/jets-jaguars
+false,15,Sunday,Denver Broncos,23,54.4,9.2,2,Indianapolis Colts,45.2,Denver Broncos,54.4,https://www.espn.com/nfl/game/_/gameId/401671669/colts-broncos
+false,15,Sunday,Washington Commanders,13,53.7,7.8,7,Washington Commanders,53.7,New Orleans Saints,45.9,https://www.espn.com/nfl/game/_/gameId/401671737/commanders-saints
+false,15,Sunday,Los Angeles Chargers,14,52.1,4.6,3,Tampa Bay Buccaneers,47.5,Los Angeles Chargers,52.1,https://www.espn.com/nfl/game/_/gameId/401671762/buccaneers-chargers
+false,16,Sunday,Buffalo Bills,3,81,62.2,24,New England Patriots,18.8,Buffalo Bills,81,https://www.espn.com/nfl/game/_/gameId/401671494/patriots-bills
+false,16,Sunday,Tampa Bay Buccaneers,11,72.1,44.4,21,Tampa Bay Buccaneers,72.1,Dallas Cowboys,27.7,https://www.espn.com/nfl/game/_/gameId/401671790/buccaneers-cowboys
+false,16,Sunday,Detroit Lions,1,70.1,40.5,23,Detroit Lions,70.1,Chicago Bears,29.6,https://www.espn.com/nfl/game/_/gameId/401671868/lions-bears
+false,16,Sunday,Arizona Cardinals,12,69.6,39.4,19,Arizona Cardinals,69.6,Carolina Panthers,30.2,https://www.espn.com/nfl/game/_/gameId/401671732/cardinals-panthers
+false,16,Sunday,Atlanta Falcons,19,67.9,36,11,New York Giants,31.9,Atlanta Falcons,67.9,https://www.espn.com/nfl/game/_/gameId/401671729/giants-falcons
+false,16,Monday,Green Bay Packers,5,66.8,33.9,15,New Orleans Saints,32.9,Green Bay Packers,66.8,https://www.espn.com/nfl/game/_/gameId/401671692/saints-packers
+false,16,Saturday,Baltimore Ravens,2,65.7,31.7,7,Pittsburgh Steelers,34,Baltimore Ravens,65.7,https://www.espn.com/nfl/game/_/gameId/401671778/steelers-ravens
+false,16,Saturday,Kansas City Chiefs,4,61.5,23.3,6,Houston Texans,38.2,Kansas City Chiefs,61.5,https://www.espn.com/nfl/game/_/gameId/401671780/texans-chiefs
+false,16,Sunday,Indianapolis Colts,25,60.4,21.1,3,Tennessee Titans,39.3,Indianapolis Colts,60.4,https://www.espn.com/nfl/game/_/gameId/401671862/titans-colts
+false,16,Sunday,Los Angeles Chargers,14,60.2,20.7,9,Denver Broncos,39.5,Los Angeles Chargers,60.2,https://www.espn.com/nfl/game/_/gameId/401671749/broncos-chargers
+false,16,Sunday,San Francisco 49ers,7,58.7,17.8,11,San Francisco 49ers,58.7,Miami Dolphins,40.9,https://www.espn.com/nfl/game/_/gameId/401671874/49ers-dolphins
+false,16,Thursday,Cincinnati Bengals,15,58.2,16.7,7,Cleveland Browns,41.5,Cincinnati Bengals,58.2,https://www.espn.com/nfl/game/_/gameId/401671811/browns-bengals
+false,16,Sunday,Minnesota Vikings,8,57.4,15.1,13,Minnesota Vikings,57.4,Seattle Seahawks,42.3,https://www.espn.com/nfl/game/_/gameId/401671759/vikings-seahawks
+false,16,Sunday,Philadelphia Eagles,6,55.2,10.8,7,Philadelphia Eagles,55.2,Washington Commanders,44.4,https://www.espn.com/nfl/game/_/gameId/401671717/eagles-commanders
+false,16,Sunday,Jacksonville Jaguars,29,51.4,3.2,3,Jacksonville Jaguars,51.4,Las Vegas Raiders,48.2,https://www.espn.com/nfl/game/_/gameId/401671673/jaguars-raiders
+false,16,Sunday,New York Jets,17,50.9,2.2,1,Los Angeles Rams,48.7,New York Jets,50.9,https://www.espn.com/nfl/game/_/gameId/401671621/rams-jets
+false,17,Sunday,Philadelphia Eagles,6,82.7,65.5,26,Dallas Cowboys,17.2,Philadelphia Eagles,82.7,https://www.espn.com/nfl/game/_/gameId/401671765/cowboys-eagles
+false,17,Sunday,Tampa Bay Buccaneers,11,73.7,47.6,20,Carolina Panthers,26.1,Tampa Bay Buccaneers,73.7,https://www.espn.com/nfl/game/_/gameId/401671653/panthers-buccaneers
+false,17,Sunday,Buffalo Bills,3,69.2,38.7,14,New York Jets,30.5,Buffalo Bills,69.2,https://www.espn.com/nfl/game/_/gameId/401671495/jets-bills
+false,17,Sunday,Los Angeles Chargers,14,64.6,29.5,13,Los Angeles Chargers,64.6,New England Patriots,35.1,https://www.espn.com/nfl/game/_/gameId/401671832/chargers-patriots
+false,17,Sunday,New Orleans Saints,20,62.5,25.3,6,Las Vegas Raiders,37.2,New Orleans Saints,62.5,https://www.espn.com/nfl/game/_/gameId/401671738/raiders-saints
+false,17,Sunday,Indianapolis Colts,25,59.8,19.9,5,Indianapolis Colts,59.8,New York Giants,39.9,https://www.espn.com/nfl/game/_/gameId/401671846/colts-giants
+false,17,Sunday,Washington Commanders,13,59.4,19.1,6,Atlanta Falcons,40.3,Washington Commanders,59.4,https://www.espn.com/nfl/game/_/gameId/401671842/falcons-commanders
+false,17,Wednesday,Baltimore Ravens,2,58.9,18.1,8,Baltimore Ravens,58.9,Houston Texans,40.8,https://www.espn.com/nfl/game/_/gameId/401671800/ravens-texans
+false,17,Sunday,Cincinnati Bengals,15,58.7,17.7,8,Denver Broncos,41,Cincinnati Bengals,58.7,https://www.espn.com/nfl/game/_/gameId/401671835/broncos-bengals
+false,17,Monday,Detroit Lions,1,57,14.3,6,Detroit Lions,57,San Francisco 49ers,42.7,https://www.espn.com/nfl/game/_/gameId/401671698/lions-49ers
+false,17,Sunday,Jacksonville Jaguars,29,56.9,14.1,1,Tennessee Titans,42.8,Jacksonville Jaguars,56.9,https://www.espn.com/nfl/game/_/gameId/401671634/titans-jaguars
+false,17,Wednesday,Kansas City Chiefs,4,55.6,11.6,5,Kansas City Chiefs,55.6,Pittsburgh Steelers,44,https://www.espn.com/nfl/game/_/gameId/401671799/chiefs-steelers
+false,17,Thursday,Chicago Bears,24,52.5,5.4,3,Seattle Seahawks,47.1,Chicago Bears,52.5,https://www.espn.com/nfl/game/_/gameId/401671876/seahawks-bears
+false,17,Sunday,Cleveland Browns,22,51.2,2.8,4,Miami Dolphins,48.4,Cleveland Browns,51.2,https://www.espn.com/nfl/game/_/gameId/401671877/dolphins-browns
+false,17,Sunday,Green Bay Packers,5,50.7,1.8,3,Green Bay Packers,50.7,Minnesota Vikings,48.9,https://www.espn.com/nfl/game/_/gameId/401671725/packers-vikings
+false,17,Sunday,Arizona Cardinals,12,50.7,1.8,4,Arizona Cardinals,50.7,Los Angeles Rams,48.9,https://www.espn.com/nfl/game/_/gameId/401671829/cardinals-rams
+false,18,Sunday,Philadelphia Eagles,6,79.3,58.8,24,New York Giants,20.5,Philadelphia Eagles,79.3,https://www.espn.com/nfl/game/_/gameId/401671841/giants-eagles
+false,18,Sunday,Buffalo Bills,3,75.6,51.4,24,Buffalo Bills,75.6,New England Patriots,24.2,https://www.espn.com/nfl/game/_/gameId/401671831/bills-patriots
+false,18,Sunday,Baltimore Ravens,2,73,46.2,20,Cleveland Browns,26.8,Baltimore Ravens,73,https://www.espn.com/nfl/game/_/gameId/401671834/browns-ravens
+false,18,Sunday,Washington Commanders,13,71.8,43.8,19,Washington Commanders,71.8,Dallas Cowboys,28,https://www.espn.com/nfl/game/_/gameId/401671840/commanders-cowboys
+false,18,Sunday,Atlanta Falcons,19,68.7,37.7,12,Carolina Panthers,31,Atlanta Falcons,68.7,https://www.espn.com/nfl/game/_/gameId/401671827/panthers-falcons
+false,18,Sunday,Green Bay Packers,5,67.9,36.1,19,Chicago Bears,31.8,Green Bay Packers,67.9,https://www.espn.com/nfl/game/_/gameId/401671844/bears-packers
+false,18,Sunday,Detroit Lions,1,64.7,29.7,7,Minnesota Vikings,35,Detroit Lions,64.7,https://www.espn.com/nfl/game/_/gameId/401671843/vikings-lions
+false,18,Sunday,Houston Texans,10,64.7,29.7,18,Houston Texans,64.7,Tennessee Titans,35,https://www.espn.com/nfl/game/_/gameId/401671826/texans-titans
+false,18,Sunday,Kansas City Chiefs,4,64.3,28.8,19,Kansas City Chiefs,64.3,Denver Broncos,35.5,https://www.espn.com/nfl/game/_/gameId/401671838/chiefs-broncos
+false,18,Sunday,Los Angeles Chargers,14,61.9,24.1,12,Los Angeles Chargers,61.9,Las Vegas Raiders,37.8,https://www.espn.com/nfl/game/_/gameId/401671839/chargers-raiders
+false,18,Sunday,Tampa Bay Buccaneers,11,59.3,18.9,9,New Orleans Saints,40.4,Tampa Bay Buccaneers,59.3,https://www.espn.com/nfl/game/_/gameId/401671828/saints-buccaneers
+false,18,Sunday,Pittsburgh Steelers,9,57.7,15.7,6,Cincinnati Bengals,42,Pittsburgh Steelers,57.7,https://www.espn.com/nfl/game/_/gameId/401671836/bengals-steelers
+false,18,Sunday,Indianapolis Colts,25,55.4,11.1,4,Jacksonville Jaguars,44.3,Indianapolis Colts,55.4,https://www.espn.com/nfl/game/_/gameId/401671837/jaguars-colts
+false,18,Sunday,Los Angeles Rams,16,55.3,11,5,Seattle Seahawks,44.3,Los Angeles Rams,55.3,https://www.espn.com/nfl/game/_/gameId/401671830/seahawks-rams
+false,18,Sunday,San Francisco 49ers,7,53.5,7.3,5,San Francisco 49ers,53.5,Arizona Cardinals,46.2,https://www.espn.com/nfl/game/_/gameId/401671845/49ers-cardinals
+false,18,Sunday,New York Jets,17,52.8,6,1,Miami Dolphins,46.8,New York Jets,52.8,https://www.espn.com/nfl/game/_/gameId/401671833/dolphins-jets

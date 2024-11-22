@@ -1,0 +1,300 @@
+
+# 1
+Min:  36.100
+Avg:  48.286
+Sum: 338.000
+ 12|Washington Commanders    | 13|  78.3%|  56.8%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|Cincinnati Bengals       | 15|  69.9%|  40.0%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Tampa Bay Buccaneers     | 11|  72.1%|  44.4%
+ 17|Philadelphia Eagles      |  6|  82.7%|  65.5%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 2
+Min:  36.100
+Avg:  45.529
+Sum: 318.700
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Washington Commanders    | 13|  68.6%|  37.5%
+ 14|Cincinnati Bengals       | 15|  69.9%|  40.0%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Tampa Bay Buccaneers     | 11|  72.1%|  44.4%
+ 17|Philadelphia Eagles      |  6|  82.7%|  65.5%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 3
+Min:  33.900
+Avg:  47.471
+Sum: 332.300
+ 12|Washington Commanders    | 13|  78.3%|  56.8%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|Cincinnati Bengals       | 15|  69.9%|  40.0%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Philadelphia Eagles      |  6|  79.3%|  58.8%
+
+# 4
+Min:  33.900
+Avg:  47.414
+Sum: 331.900
+ 12|Washington Commanders    | 13|  78.3%|  56.8%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Tampa Bay Buccaneers     | 11|  72.1%|  44.4%
+ 17|Philadelphia Eagles      |  6|  82.7%|  65.5%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 5
+Min:  33.900
+Avg:  46.600
+Sum: 326.200
+ 12|Washington Commanders    | 13|  78.3%|  56.8%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Philadelphia Eagles      |  6|  79.3%|  58.8%
+
+# 6
+Min:  33.900
+Avg:  45.343
+Sum: 317.400
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Tampa Bay Buccaneers     | 11|  69.4%|  39.0%
+ 14|Cincinnati Bengals       | 15|  69.9%|  40.0%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Philadelphia Eagles      |  6|  82.7%|  65.5%
+ 18|Washington Commanders    | 13|  71.8%|  43.8%
+
+# 7
+Min:  33.900
+Avg:  45.200
+Sum: 316.400
+ 12|Tampa Bay Buccaneers     | 11|  68.9%|  38.0%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|Cincinnati Bengals       | 15|  69.9%|  40.0%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Philadelphia Eagles      |  6|  82.7%|  65.5%
+ 18|Washington Commanders    | 13|  71.8%|  43.8%
+
+# 8
+Min:  33.900
+Avg:  44.714
+Sum: 313.000
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Washington Commanders    | 13|  68.6%|  37.5%
+ 14|Cincinnati Bengals       | 15|  69.9%|  40.0%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Philadelphia Eagles      |  6|  79.3%|  58.8%
+
+# 9
+Min:  33.900
+Avg:  44.657
+Sum: 312.600
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Washington Commanders    | 13|  68.6%|  37.5%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Tampa Bay Buccaneers     | 11|  72.1%|  44.4%
+ 17|Philadelphia Eagles      |  6|  82.7%|  65.5%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 10
+Min:  33.900
+Avg:  44.471
+Sum: 311.300
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Tampa Bay Buccaneers     | 11|  69.4%|  39.0%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Philadelphia Eagles      |  6|  82.7%|  65.5%
+ 18|Washington Commanders    | 13|  71.8%|  43.8%
+
+# 11
+Min:  33.900
+Avg:  44.329
+Sum: 310.300
+ 12|Tampa Bay Buccaneers     | 11|  68.9%|  38.0%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Philadelphia Eagles      |  6|  82.7%|  65.5%
+ 18|Washington Commanders    | 13|  71.8%|  43.8%
+
+# 12
+Min:  33.900
+Avg:  43.843
+Sum: 306.900
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Washington Commanders    | 13|  68.6%|  37.5%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Philadelphia Eagles      |  6|  79.3%|  58.8%
+
+# 13
+Min:  29.400
+Avg:  46.771
+Sum: 327.400
+ 12|Washington Commanders    | 13|  78.3%|  56.8%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|Minnesota Vikings        |  8|  64.6%|  29.4%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Tampa Bay Buccaneers     | 11|  72.1%|  44.4%
+ 17|Philadelphia Eagles      |  6|  82.7%|  65.5%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 14
+Min:  29.400
+Avg:  45.957
+Sum: 321.700
+ 12|Washington Commanders    | 13|  78.3%|  56.8%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|Minnesota Vikings        |  8|  64.6%|  29.4%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Philadelphia Eagles      |  6|  79.3%|  58.8%
+
+# 15
+Min:  29.400
+Avg:  44.014
+Sum: 308.100
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Washington Commanders    | 13|  68.6%|  37.5%
+ 14|Minnesota Vikings        |  8|  64.6%|  29.4%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Tampa Bay Buccaneers     | 11|  72.1%|  44.4%
+ 17|Philadelphia Eagles      |  6|  82.7%|  65.5%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 16
+Min:  29.400
+Avg:  43.829
+Sum: 306.800
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Tampa Bay Buccaneers     | 11|  69.4%|  39.0%
+ 14|Minnesota Vikings        |  8|  64.6%|  29.4%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Philadelphia Eagles      |  6|  82.7%|  65.5%
+ 18|Washington Commanders    | 13|  71.8%|  43.8%
+
+# 17
+Min:  29.400
+Avg:  43.686
+Sum: 305.800
+ 12|Tampa Bay Buccaneers     | 11|  68.9%|  38.0%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|Minnesota Vikings        |  8|  64.6%|  29.4%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Philadelphia Eagles      |  6|  82.7%|  65.5%
+ 18|Washington Commanders    | 13|  71.8%|  43.8%
+
+# 18
+Min:  29.400
+Avg:  43.200
+Sum: 302.400
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Washington Commanders    | 13|  68.6%|  37.5%
+ 14|Minnesota Vikings        |  8|  64.6%|  29.4%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Philadelphia Eagles      |  6|  79.3%|  58.8%
+
+# 19
+Min:  29.100
+Avg:  46.586
+Sum: 326.100
+ 12|Washington Commanders    | 13|  78.3%|  56.8%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|Cincinnati Bengals       | 15|  69.9%|  40.0%
+ 15|Minnesota Vikings        |  8|  64.4%|  29.1%
+ 16|Tampa Bay Buccaneers     | 11|  72.1%|  44.4%
+ 17|Philadelphia Eagles      |  6|  82.7%|  65.5%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 20
+Min:  29.100
+Avg:  46.557
+Sum: 325.900
+ 12|Washington Commanders    | 13|  78.3%|  56.8%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|Cincinnati Bengals       | 15|  69.9%|  40.0%
+ 15|Minnesota Vikings        |  8|  64.4%|  29.1%
+ 16|Arizona Cardinals        | 12|  69.6%|  39.4%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Philadelphia Eagles      |  6|  79.3%|  58.8%
+
+# 21
+Min:  29.100
+Avg:  46.371
+Sum: 324.600
+ 12|Washington Commanders    | 13|  78.3%|  56.8%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|Philadelphia Eagles      |  6|  80.6%|  61.4%
+ 15|Minnesota Vikings        |  8|  64.4%|  29.1%
+ 16|Arizona Cardinals        | 12|  69.6%|  39.4%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 22
+Min:  29.100
+Avg:  45.871
+Sum: 321.100
+ 12|Washington Commanders    | 13|  78.3%|  56.8%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|Cincinnati Bengals       | 15|  69.9%|  40.0%
+ 15|Minnesota Vikings        |  8|  64.4%|  29.1%
+ 16|Arizona Cardinals        | 12|  69.6%|  39.4%
+ 17|Philadelphia Eagles      |  6|  82.7%|  65.5%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 23
+Min:  29.100
+Avg:  45.771
+Sum: 320.400
+ 12|Washington Commanders    | 13|  78.3%|  56.8%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|Cincinnati Bengals       | 15|  69.9%|  40.0%
+ 15|Minnesota Vikings        |  8|  64.4%|  29.1%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Philadelphia Eagles      |  6|  79.3%|  58.8%
+
+# 24
+Min:  29.100
+Avg:  45.714
+Sum: 320.000
+ 12|Washington Commanders    | 13|  78.3%|  56.8%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Minnesota Vikings        |  8|  64.4%|  29.1%
+ 16|Tampa Bay Buccaneers     | 11|  72.1%|  44.4%
+ 17|Philadelphia Eagles      |  6|  82.7%|  65.5%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 25
+Min:  29.100
+Avg:  45.686
+Sum: 319.800
+ 12|Washington Commanders    | 13|  78.3%|  56.8%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Minnesota Vikings        |  8|  64.4%|  29.1%
+ 16|Arizona Cardinals        | 12|  69.6%|  39.4%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Philadelphia Eagles      |  6|  79.3%|  58.8%

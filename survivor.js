@@ -19,8 +19,8 @@ const { writeTopChoicesToFile } = require("./lib/espn/espnWriteTopChoices");
 
 // /* CONFIG */
 const userConfigs = [
-  lmsConfig.luv1,
-  lmsConfig.luv2,
+  lmsConfig.miguel,
+  lmsConfig.mikael,
 ];
 
 const LOG_INTERVAL = lmsConfig.logInterval;

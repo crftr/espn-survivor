@@ -1,0 +1,240 @@
+
+# 1
+Min:  33.900
+Avg:  44.543
+Sum: 311.800
+ 12|Houston Texans           | 10|  71.1%|  42.4%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Baltimore Ravens         |  2|  79.0%|  58.2%
+ 16|Arizona Cardinals        | 12|  69.6%|  39.4%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 2
+Min:  33.900
+Avg:  42.743
+Sum: 299.200
+ 12|Houston Texans           | 10|  71.1%|  42.4%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Baltimore Ravens         |  2|  73.0%|  46.2%
+
+# 3
+Min:  33.700
+Avg:  43.300
+Sum: 303.100
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Houston Texans           | 10|  66.7%|  33.7%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Baltimore Ravens         |  2|  79.0%|  58.2%
+ 16|Arizona Cardinals        | 12|  69.6%|  39.4%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 4
+Min:  33.700
+Avg:  41.500
+Sum: 290.500
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Houston Texans           | 10|  66.7%|  33.7%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Baltimore Ravens         |  2|  73.0%|  46.2%
+
+# 5
+Min:  31.700
+Avg:  40.986
+Sum: 286.900
+ 12|Houston Texans           | 10|  71.1%|  42.4%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Baltimore Ravens         |  2|  65.7%|  31.7%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 6
+Min:  31.700
+Avg:  39.743
+Sum: 278.200
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Houston Texans           | 10|  66.7%|  33.7%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Baltimore Ravens         |  2|  65.7%|  31.7%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 7
+Min:  29.400
+Avg:  43.900
+Sum: 307.300
+ 12|Houston Texans           | 10|  71.1%|  42.4%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|Minnesota Vikings        |  8|  64.6%|  29.4%
+ 15|Baltimore Ravens         |  2|  79.0%|  58.2%
+ 16|Arizona Cardinals        | 12|  69.6%|  39.4%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 8
+Min:  29.400
+Avg:  42.657
+Sum: 298.600
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Houston Texans           | 10|  66.7%|  33.7%
+ 14|Minnesota Vikings        |  8|  64.6%|  29.4%
+ 15|Baltimore Ravens         |  2|  79.0%|  58.2%
+ 16|Arizona Cardinals        | 12|  69.6%|  39.4%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 9
+Min:  29.400
+Avg:  42.100
+Sum: 294.700
+ 12|Houston Texans           | 10|  71.1%|  42.4%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|Minnesota Vikings        |  8|  64.6%|  29.4%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Baltimore Ravens         |  2|  73.0%|  46.2%
+
+# 10
+Min:  29.400
+Avg:  40.857
+Sum: 286.000
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Houston Texans           | 10|  66.7%|  33.7%
+ 14|Minnesota Vikings        |  8|  64.6%|  29.4%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Baltimore Ravens         |  2|  73.0%|  46.2%
+
+# 11
+Min:  29.400
+Avg:  40.343
+Sum: 282.400
+ 12|Houston Texans           | 10|  71.1%|  42.4%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|Minnesota Vikings        |  8|  64.6%|  29.4%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Baltimore Ravens         |  2|  65.7%|  31.7%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 12
+Min:  29.400
+Avg:  39.100
+Sum: 273.700
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Houston Texans           | 10|  66.7%|  33.7%
+ 14|Minnesota Vikings        |  8|  64.6%|  29.4%
+ 15|Arizona Cardinals        | 12|  70.4%|  41.0%
+ 16|Baltimore Ravens         |  2|  65.7%|  31.7%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 13
+Min:  29.100
+Avg:  41.829
+Sum: 292.800
+ 12|Houston Texans           | 10|  71.1%|  42.4%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Minnesota Vikings        |  8|  64.4%|  29.1%
+ 16|Arizona Cardinals        | 12|  69.6%|  39.4%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Baltimore Ravens         |  2|  73.0%|  46.2%
+
+# 14
+Min:  29.100
+Avg:  41.043
+Sum: 287.300
+ 12|Houston Texans           | 10|  71.1%|  42.4%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Minnesota Vikings        |  8|  64.4%|  29.1%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Baltimore Ravens         |  2|  73.0%|  46.2%
+
+# 15
+Min:  29.100
+Avg:  40.586
+Sum: 284.100
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Houston Texans           | 10|  66.7%|  33.7%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Minnesota Vikings        |  8|  64.4%|  29.1%
+ 16|Arizona Cardinals        | 12|  69.6%|  39.4%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Baltimore Ravens         |  2|  73.0%|  46.2%
+
+# 16
+Min:  29.100
+Avg:  40.386
+Sum: 282.700
+ 12|Houston Texans           | 10|  71.1%|  42.4%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Minnesota Vikings        |  8|  64.4%|  29.1%
+ 16|Arizona Cardinals        | 12|  69.6%|  39.4%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 17
+Min:  29.100
+Avg:  39.800
+Sum: 278.600
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Houston Texans           | 10|  66.7%|  33.7%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Minnesota Vikings        |  8|  64.4%|  29.1%
+ 16|Green Bay Packers        |  5|  66.8%|  33.9%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Baltimore Ravens         |  2|  73.0%|  46.2%
+
+# 18
+Min:  29.100
+Avg:  39.286
+Sum: 275.000
+ 12|Houston Texans           | 10|  71.1%|  42.4%
+ 13|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Minnesota Vikings        |  8|  64.4%|  29.1%
+ 16|Baltimore Ravens         |  2|  65.7%|  31.7%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 19
+Min:  29.100
+Avg:  39.143
+Sum: 274.000
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Houston Texans           | 10|  66.7%|  33.7%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Minnesota Vikings        |  8|  64.4%|  29.1%
+ 16|Arizona Cardinals        | 12|  69.6%|  39.4%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
+
+# 20
+Min:  29.100
+Avg:  38.043
+Sum: 266.300
+ 12|Kansas City Chiefs       |  4|  77.0%|  54.2%
+ 13|Houston Texans           | 10|  66.7%|  33.7%
+ 14|San Francisco 49ers      |  7|  66.8%|  33.9%
+ 15|Minnesota Vikings        |  8|  64.4%|  29.1%
+ 16|Baltimore Ravens         |  2|  65.7%|  31.7%
+ 17|Tampa Bay Buccaneers     | 11|  73.7%|  47.6%
+ 18|Green Bay Packers        |  5|  67.9%|  36.1%
