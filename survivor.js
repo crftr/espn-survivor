@@ -16,6 +16,7 @@ const {
   averagePercentageDifference,
 } = require("./lib/espn/espnGenAndScoring");
 const { writeTopChoicesToFile } = require("./lib/espn/espnWriteTopChoices");
+const { Worker } = require('worker_threads');
 
 // /* CONFIG */
 const userConfigs = [
@@ -80,47 +81,48 @@ const TOP_COMBINATIONS = lmsConfig.topCombinations;
       let combinationCounter = 0;
       const logInterval = LOG_INTERVAL;
 
-      for (const combination of generateAllCombinations(espnData)) {
-        const scoreTimidPuppy = scoreChoices_timidPuppy(combination, espnData);
-        const scoreAveragePercentage = averagePercentageDifference(
-          combination,
-          espnData
-        );
-        const scoreSumPercentage = sumPercentageDifference(
-          combination,
-          espnData
-        );
-        topCombinations.push({
-          combination,
-          scoreTimid: scoreTimidPuppy,
-          scoreAvg: scoreAveragePercentage,
-          scoreSum: scoreSumPercentage,
-        });
+      const worker = new Worker('./lib/espn/espnWorker.js');
+      worker.postMessage({ espnData, currentWeek: 0, currentCombination: [], pickedTeams: new Set() });
 
-        if (topCombinations.size() > TOP_COMBINATIONS) {
-          topCombinations.pop();
+      worker.on('message', (combinations) => {
+        for (const combination of combinations) {
+          topCombinations.push(combination);
+
+          if (topCombinations.size() > TOP_COMBINATIONS) {
+            topCombinations.pop();
+          }
+
+          combinationCounter += 1;
+          if (combinationCounter % logInterval === 0) {
+            console.log(
+              `Processed ${combinationCounter.toLocaleString(
+                "en-US"
+              )} combinations...`
+            );
+          }
         }
 
-        combinationCounter += 1;
-        if (combinationCounter % logInterval === 0) {
-          console.log(
-            `Processed ${combinationCounter.toLocaleString(
-              "en-US"
-            )} combinations...`
-          );
+        const top_N_Combinations = [];
+        while (!topCombinations.isEmpty()) {
+          top_N_Combinations.push(topCombinations.pop());
         }
-      }
 
-      const top_N_Combinations = [];
-      while (!topCombinations.isEmpty()) {
-        top_N_Combinations.push(topCombinations.pop());
-      }
+        // Reverse the array to have the highest scores first
+        top_N_Combinations.reverse();
 
-      // Reverse the array to have the highest scores first
-      top_N_Combinations.reverse();
+        // Write the top combinations to a file
+        writeTopChoicesToFile(top_N_Combinations, FILE_PREFIX);
+      });
 
-      // Write the top combinations to a file
-      writeTopChoicesToFile(top_N_Combinations, FILE_PREFIX);
+      worker.on('error', (error) => {
+        console.error('Worker error:', error);
+      });
+
+      worker.on('exit', (code) => {
+        if (code !== 0) {
+          console.error(`Worker stopped with exit code ${code}`);
+        }
+      });
 
     } catch (error) {
       console.error("Error loading data:", error);
